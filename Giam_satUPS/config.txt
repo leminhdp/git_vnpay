@@ -1,0 +1,34 @@
+EXEC /usr/local/bin/snmptraphandling.py "StruxureWare_DCE" "SNMP Traps" $13 $@ "" "$7:$5 is $15 - $3"
+
+SNMPv2-SMI::enterprises.5528.100.10.2.32.0.3
+
+powerMeterVoltageTooLowRTN
+
+
+
+EVENT powerMeterVoltageTooLow .1.3.6.1.4.1.5528.100.10.2.32.0.3 "Status Events" Normal
+FORMAT Received trap "$N" with variables "$+*"
+EXEC php /usr/local/nagiosxi/scripts/nxti.php --event_name="$N"  --event_oid="$i" --numeric_oid="$o" --symbolic_oid="$O" --community="$C" --trap_hostname="$R" --trap_ip="$aR" --agent_hostname="$A" --agent_ip="$aA" --category="$c" --severity="$s" --uptime="$T" --datetime="$x $X" --bindings="$+*"
+EXEC /usr/local/bin/snmptraphandling.py "StruxureWare_DCE" "SNMP Traps" $13 $@ "" "$7:$5 is $15 - $3"
+SDESC
+
+Humidity sensor value is no longer too low.
+Variables:
+  1: netBotzTrapErrorID
+  2: netBotzTrapErrorType
+  3: netBotzTrapErrorTypeLabel
+  4: netBotzTrapSensorID
+  5: netBotzTrapSensorLabel
+  6: netBotzTrapPodID
+  7: netBotzTrapPodLabel
+  8: netBotzTrapPortID
+  9: netBotzTrapPortLabel
+  10: netBotzTrapStartTime
+  11: netBotzTrapNotifyTime
+  12: netBotzTrapResolveTime
+  13: netBotzTrapSeverity
+  14: netBotzTrapSensorValue
+  15: netBotzTrapSensorValueInt
+  16: netBotzTrapSensorValueFraction
+
+EDESC

@@ -1,0 +1,4620 @@
+SNMPTTHANDLER started: Fri Jul 13 00:39:04 2018
+
+s = 1531417144, usec = 423568
+s_pad = 1531417144, usec_pad = 423568
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.58]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:30:20.80
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5000 "LINK"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5000 4
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5000 "UPDOWN"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5000 "Interface FastEthernet0/0/0, changed state to up"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5000 140:2:30:20.79
+
+SNMPTTHANDLER started: Fri Jul 13 00:53:21 2018
+
+s = 1531418001, usec = 342566
+s_pad = 1531418001, usec_pad = 342566
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:44:38.29
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5001 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5001 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5001 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5001 "Duplicate address 10.58.38.232 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5001 140:2:44:38.28
+
+SNMPTTHANDLER started: Fri Jul 13 00:53:48 2018
+
+s = 1531418028, usec = 27563
+s_pad = 1531418028, usec_pad = 027563
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:45:08.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5002 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5002 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5002 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5002 "Duplicate address 10.58.38.232 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5002 140:2:45:08.44
+
+SNMPTTHANDLER started: Fri Jul 13 00:54:18 2018
+
+s = 1531418058, usec = 54105
+s_pad = 1531418058, usec_pad = 054105
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:45:38.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5003 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5003 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5003 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5003 "Duplicate address 10.58.38.232 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5003 140:2:45:38.44
+
+SNMPTTHANDLER started: Fri Jul 13 00:55:36 2018
+
+s = 1531418136, usec = 480170
+s_pad = 1531418136, usec_pad = 480170
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:46:53.41
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5004 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5004 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5004 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5004 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5004 140:2:46:53.41
+
+SNMPTTHANDLER started: Fri Jul 13 00:56:03 2018
+
+s = 1531418163, usec = 332818
+s_pad = 1531418163, usec_pad = 332818
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:47:23.75
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5005 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5005 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5005 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5005 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5005 140:2:47:23.75
+
+SNMPTTHANDLER started: Fri Jul 13 00:56:33 2018
+
+s = 1531418193, usec = 338382
+s_pad = 1531418193, usec_pad = 338382
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:47:53.75
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5006 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5006 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5006 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5006 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5006 140:2:47:53.75
+
+SNMPTTHANDLER started: Fri Jul 13 00:57:03 2018
+
+s = 1531418223, usec = 335126
+s_pad = 1531418223, usec_pad = 335126
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:48:23.75
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5007 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5007 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5007 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5007 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5007 140:2:48:23.75
+
+SNMPTTHANDLER started: Fri Jul 13 00:57:34 2018
+
+s = 1531418254, usec = 29864
+s_pad = 1531418254, usec_pad = 029864
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:48:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5008 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5008 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5008 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5008 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5008 140:2:48:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 00:58:07 2018
+
+s = 1531418287, usec = 387133
+s_pad = 1531418287, usec_pad = 387133
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:49:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5009 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5009 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5009 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5009 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5009 140:2:49:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 00:58:34 2018
+
+s = 1531418314, usec = 35229
+s_pad = 1531418314, usec_pad = 035229
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:49:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5010 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5010 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5010 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5010 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5010 140:2:49:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 00:59:04 2018
+
+s = 1531418344, usec = 29496
+s_pad = 1531418344, usec_pad = 029496
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:50:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5011 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5011 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5011 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5011 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5011 140:2:50:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 00:59:37 2018
+
+s = 1531418377, usec = 436585
+s_pad = 1531418377, usec_pad = 436585
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:50:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5012 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5012 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5012 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5012 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5012 140:2:50:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:00:04 2018
+
+s = 1531418404, usec = 26397
+s_pad = 1531418404, usec_pad = 026397
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:51:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5013 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5013 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5013 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5013 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5013 140:2:51:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:00:34 2018
+
+s = 1531418434, usec = 28245
+s_pad = 1531418434, usec_pad = 028245
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:51:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5014 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5014 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5014 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5014 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5014 140:2:51:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:01:07 2018
+
+s = 1531418467, usec = 350124
+s_pad = 1531418467, usec_pad = 350124
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:52:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5015 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5015 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5015 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5015 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5015 140:2:52:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:01:34 2018
+
+s = 1531418494, usec = 81341
+s_pad = 1531418494, usec_pad = 081341
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:52:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5016 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5016 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5016 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5016 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5016 140:2:52:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:02:04 2018
+
+s = 1531418524, usec = 34269
+s_pad = 1531418524, usec_pad = 034269
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:53:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5017 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5017 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5017 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5017 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5017 140:2:53:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:02:37 2018
+
+s = 1531418557, usec = 403690
+s_pad = 1531418557, usec_pad = 403690
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:53:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5018 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5018 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5018 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5018 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5018 140:2:53:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:03:04 2018
+
+s = 1531418584, usec = 28220
+s_pad = 1531418584, usec_pad = 028220
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:54:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5019 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5019 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5019 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5019 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5019 140:2:54:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:03:34 2018
+
+s = 1531418614, usec = 35583
+s_pad = 1531418614, usec_pad = 035583
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:54:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5020 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5020 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5020 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5020 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5020 140:2:54:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:04:07 2018
+
+s = 1531418647, usec = 616728
+s_pad = 1531418647, usec_pad = 616728
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:55:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5021 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5021 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5021 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5021 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5021 140:2:55:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:04:34 2018
+
+s = 1531418674, usec = 25353
+s_pad = 1531418674, usec_pad = 025353
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:55:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5022 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5022 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5022 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5022 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5022 140:2:55:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:05:04 2018
+
+s = 1531418704, usec = 38873
+s_pad = 1531418704, usec_pad = 038873
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:56:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5023 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5023 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5023 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5023 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5023 140:2:56:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:05:37 2018
+
+s = 1531418737, usec = 400716
+s_pad = 1531418737, usec_pad = 400716
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:56:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5024 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5024 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5024 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5024 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5024 140:2:56:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:06:04 2018
+
+s = 1531418764, usec = 23929
+s_pad = 1531418764, usec_pad = 023929
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:57:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5025 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5025 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5025 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5025 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5025 140:2:57:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:06:34 2018
+
+s = 1531418794, usec = 224124
+s_pad = 1531418794, usec_pad = 224124
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:57:54.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5026 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5026 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5026 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5026 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5026 140:2:57:54.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:07:07 2018
+
+s = 1531418827, usec = 334715
+s_pad = 1531418827, usec_pad = 334715
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:58:24.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5027 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5027 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5027 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5027 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5027 140:2:58:24.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:07:34 2018
+
+s = 1531418854, usec = 286630
+s_pad = 1531418854, usec_pad = 286630
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:58:54.74
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5028 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5028 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5028 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5028 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5028 140:2:58:54.74
+
+SNMPTTHANDLER started: Fri Jul 13 01:08:04 2018
+
+s = 1531418884, usec = 354667
+s_pad = 1531418884, usec_pad = 354667
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:59:24.74
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5029 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5029 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5029 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5029 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5029 140:2:59:24.74
+
+SNMPTTHANDLER started: Fri Jul 13 01:08:37 2018
+
+s = 1531418917, usec = 433485
+s_pad = 1531418917, usec_pad = 433485
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:2:59:54.74
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5030 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5030 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5030 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5030 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5030 140:2:59:54.74
+
+SNMPTTHANDLER started: Fri Jul 13 01:09:04 2018
+
+s = 1531418944, usec = 383943
+s_pad = 1531418944, usec_pad = 383943
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:00:24.74
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5031 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5031 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5031 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5031 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5031 140:3:00:24.74
+
+SNMPTTHANDLER started: Fri Jul 13 01:09:34 2018
+
+s = 1531418974, usec = 337582
+s_pad = 1531418974, usec_pad = 337582
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:00:54.74
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5032 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5032 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5032 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5032 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5032 140:3:00:54.74
+
+SNMPTTHANDLER started: Fri Jul 13 01:10:08 2018
+
+s = 1531419008, usec = 416228
+s_pad = 1531419008, usec_pad = 416228
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:01:25.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5033 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5033 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5033 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5033 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5033 140:3:01:25.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:10:35 2018
+
+s = 1531419035, usec = 4946
+s_pad = 1531419035, usec_pad = 004946
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:01:55.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5034 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5034 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5034 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5034 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5034 140:3:01:55.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:11:05 2018
+
+s = 1531419065, usec = 54691
+s_pad = 1531419065, usec_pad = 054691
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:02:25.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5035 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5035 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5035 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5035 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5035 140:3:02:25.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:11:38 2018
+
+s = 1531419098, usec = 400920
+s_pad = 1531419098, usec_pad = 400920
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:02:55.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5036 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5036 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5036 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5036 "Duplicate address 10.58.38.237 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5036 140:3:02:55.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:12:05 2018
+
+s = 1531419125, usec = 286513
+s_pad = 1531419125, usec_pad = 286513
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:03:25.74
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5037 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5037 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5037 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5037 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5037 140:3:03:25.73
+
+SNMPTTHANDLER started: Fri Jul 13 01:12:35 2018
+
+s = 1531419155, usec = 333127
+s_pad = 1531419155, usec_pad = 333127
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:03:55.74
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5038 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5038 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5038 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5038 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5038 140:3:03:55.73
+
+SNMPTTHANDLER started: Fri Jul 13 01:13:08 2018
+
+s = 1531419188, usec = 397402
+s_pad = 1531419188, usec_pad = 397402
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:04:25.74
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5039 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5039 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5039 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5039 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5039 140:3:04:25.73
+
+SNMPTTHANDLER started: Fri Jul 13 01:13:35 2018
+
+s = 1531419215, usec = 340154
+s_pad = 1531419215, usec_pad = 340154
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:04:55.74
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5040 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5040 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5040 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5040 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5040 140:3:04:55.73
+
+SNMPTTHANDLER started: Fri Jul 13 01:14:06 2018
+
+s = 1531419246, usec = 39091
+s_pad = 1531419246, usec_pad = 039091
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:05:26.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5041 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5041 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5041 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5041 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5041 140:3:05:26.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:14:39 2018
+
+s = 1531419279, usec = 404762
+s_pad = 1531419279, usec_pad = 404762
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:05:56.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5042 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5042 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5042 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5042 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5042 140:3:05:56.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:15:06 2018
+
+s = 1531419306, usec = 38034
+s_pad = 1531419306, usec_pad = 038034
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:06:26.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5043 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5043 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5043 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5043 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5043 140:3:06:26.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:15:36 2018
+
+s = 1531419336, usec = 75412
+s_pad = 1531419336, usec_pad = 075412
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:06:56.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5044 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5044 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5044 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5044 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5044 140:3:06:56.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:16:09 2018
+
+s = 1531419369, usec = 398905
+s_pad = 1531419369, usec_pad = 398905
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:07:26.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5045 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5045 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5045 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5045 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5045 140:3:07:26.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:16:36 2018
+
+s = 1531419396, usec = 39868
+s_pad = 1531419396, usec_pad = 039868
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:07:56.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5046 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5046 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5046 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5046 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5046 140:3:07:56.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:17:06 2018
+
+s = 1531419426, usec = 46772
+s_pad = 1531419426, usec_pad = 046772
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:08:26.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5047 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5047 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5047 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5047 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5047 140:3:08:26.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:17:39 2018
+
+s = 1531419459, usec = 514749
+s_pad = 1531419459, usec_pad = 514749
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:08:56.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5048 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5048 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5048 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5048 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5048 140:3:08:56.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:18:06 2018
+
+s = 1531419486, usec = 49698
+s_pad = 1531419486, usec_pad = 049698
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:09:26.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5049 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5049 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5049 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5049 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5049 140:3:09:26.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:18:36 2018
+
+s = 1531419516, usec = 75873
+s_pad = 1531419516, usec_pad = 075873
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:09:56.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5050 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5050 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5050 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5050 "Duplicate address 10.58.38.230 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5050 140:3:09:56.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:24:01 2018
+
+s = 1531419841, usec = 433865
+s_pad = 1531419841, usec_pad = 433865
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:15:18.57
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5051 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5051 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5051 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5051 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5051 140:3:15:18.56
+
+SNMPTTHANDLER started: Fri Jul 13 01:24:28 2018
+
+s = 1531419868, usec = 343412
+s_pad = 1531419868, usec_pad = 343412
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:15:48.72
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5052 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5052 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5052 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5052 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5052 140:3:15:48.72
+
+SNMPTTHANDLER started: Fri Jul 13 01:24:58 2018
+
+s = 1531419898, usec = 282474
+s_pad = 1531419898, usec_pad = 282474
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:16:18.73
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5053 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5053 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5053 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5053 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5053 140:3:16:18.72
+
+SNMPTTHANDLER started: Fri Jul 13 01:25:32 2018
+
+s = 1531419932, usec = 390258
+s_pad = 1531419932, usec_pad = 390258
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:16:49.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5054 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5054 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5054 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5054 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5054 140:3:16:49.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:25:59 2018
+
+s = 1531419959, usec = 450954
+s_pad = 1531419959, usec_pad = 450954
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:17:19.72
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5055 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5055 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5055 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5055 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5055 140:3:17:19.72
+
+SNMPTTHANDLER started: Fri Jul 13 01:26:29 2018
+
+s = 1531419989, usec = 342234
+s_pad = 1531419989, usec_pad = 342234
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:17:49.72
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5056 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5056 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5056 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5056 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5056 140:3:17:49.72
+
+SNMPTTHANDLER started: Fri Jul 13 01:26:59 2018
+
+s = 1531420019, usec = 334817
+s_pad = 1531420019, usec_pad = 334817
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:18:19.72
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5057 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5057 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5057 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5057 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5057 140:3:18:19.72
+
+SNMPTTHANDLER started: Fri Jul 13 01:27:29 2018
+
+s = 1531420049, usec = 303269
+s_pad = 1531420049, usec_pad = 303269
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:18:49.72
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5058 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5058 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5058 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5058 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5058 140:3:18:49.72
+
+SNMPTTHANDLER started: Fri Jul 13 01:28:02 2018
+
+s = 1531420082, usec = 367771
+s_pad = 1531420082, usec_pad = 367771
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:19:19.72
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5059 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5059 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5059 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5059 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5059 140:3:19:19.72
+
+SNMPTTHANDLER started: Fri Jul 13 01:28:29 2018
+
+s = 1531420109, usec = 358387
+s_pad = 1531420109, usec_pad = 358387
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:19:49.72
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5060 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5060 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5060 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5060 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5060 140:3:19:49.72
+
+SNMPTTHANDLER started: Fri Jul 13 01:29:00 2018
+
+s = 1531420140, usec = 435950
+s_pad = 1531420140, usec_pad = 435950
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:20:20.72
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5061 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5061 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5061 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5061 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5061 140:3:20:20.72
+
+SNMPTTHANDLER started: Fri Jul 13 01:29:34 2018
+
+s = 1531420174, usec = 401290
+s_pad = 1531420174, usec_pad = 401290
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:20:51.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5062 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5062 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5062 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5062 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5062 140:3:20:51.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:30:01 2018
+
+s = 1531420201, usec = 66577
+s_pad = 1531420201, usec_pad = 066577
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:21:21.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5063 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5063 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5063 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5063 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5063 140:3:21:21.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:30:31 2018
+
+s = 1531420231, usec = 57943
+s_pad = 1531420231, usec_pad = 057943
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:21:51.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5064 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5064 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5064 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5064 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5064 140:3:21:51.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:31:04 2018
+
+s = 1531420264, usec = 388306
+s_pad = 1531420264, usec_pad = 388306
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:22:21.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5065 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5065 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5065 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5065 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5065 140:3:22:21.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:31:31 2018
+
+s = 1531420291, usec = 55657
+s_pad = 1531420291, usec_pad = 055657
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:22:51.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5066 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5066 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5066 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5066 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5066 140:3:22:51.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:32:01 2018
+
+s = 1531420321, usec = 58089
+s_pad = 1531420321, usec_pad = 058089
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:23:21.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5067 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5067 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5067 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5067 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5067 140:3:23:21.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:32:34 2018
+
+s = 1531420354, usec = 423939
+s_pad = 1531420354, usec_pad = 423939
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:23:51.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5068 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5068 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5068 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5068 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5068 140:3:23:51.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:33:01 2018
+
+s = 1531420381, usec = 99204
+s_pad = 1531420381, usec_pad = 099204
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:24:21.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5069 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5069 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5069 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5069 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5069 140:3:24:21.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:33:31 2018
+
+s = 1531420411, usec = 58550
+s_pad = 1531420411, usec_pad = 058550
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:24:51.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5070 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5070 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5070 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5070 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5070 140:3:24:51.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:34:04 2018
+
+s = 1531420444, usec = 439507
+s_pad = 1531420444, usec_pad = 439507
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:25:21.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5071 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5071 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5071 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5071 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5071 140:3:25:21.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:34:31 2018
+
+s = 1531420471, usec = 63380
+s_pad = 1531420471, usec_pad = 063380
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:25:51.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5072 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5072 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5072 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5072 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5072 140:3:25:51.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:35:01 2018
+
+s = 1531420501, usec = 57724
+s_pad = 1531420501, usec_pad = 057724
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:26:21.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5073 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5073 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5073 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5073 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5073 140:3:26:21.44
+
+SNMPTTHANDLER started: Fri Jul 13 01:35:34 2018
+
+s = 1531420534, usec = 464946
+s_pad = 1531420534, usec_pad = 464946
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 140:3:26:51.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5074 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5074 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5074 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5074 "Duplicate address 10.58.37.111 on FastEthernet0/0/0, sourced by 003c.1063.df48"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5074 140:3:26:51.44
+
+SNMPTTHANDLER started: Fri Jul 13 13:49:51 2018
+
+s = 1531464591, usec = 995552
+s_pad = 1531464591, usec_pad = 995552
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:35956->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:23:40:12.57
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.3.0.99
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbTestErrorCond"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_test"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Test Error"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.5 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbBaseEnclosure"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "StruxureWare Data Center Expert"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1049425164
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531446431
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.15 0
+
+SNMPv2-SMI::enterprises.5528.100.11.16 0
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 10.22.111.9
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.3
+
+SNMPTTHANDLER started: Fri Jul 13 13:51:49 2018
+
+s = 1531464709, usec = 966052
+s_pad = 1531464709, usec_pad = 966052
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:30:34.60
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.3.0.99
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbTestErrorCond"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_test"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Test Error"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbBaseEnclosure"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "NetBotz Rack Monitor 450"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1049425164
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465186
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.15 0
+
+SNMPv2-SMI::enterprises.5528.100.11.16 0
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.3
+
+SNMPTTHANDLER started: Fri Jul 13 13:51:51 2018
+
+s = 1531464711, usec = 682065
+s_pad = 1531464711, usec_pad = 682065
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:30:43.59
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465195
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 13:52:59 2018
+
+s = 1531464779, usec = 55261
+s_pad = 1531464779, usec_pad = 055261
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:31:43.59
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465255
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 13:53:51 2018
+
+s = 1531464831, usec = 643338
+s_pad = 1531464831, usec_pad = 643338
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:32:43.58
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465315
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 13:54:59 2018
+
+s = 1531464899, usec = 87643
+s_pad = 1531464899, usec_pad = 087643
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:33:43.58
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465375
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 13:56:59 2018
+
+s = 1531465019, usec = 114396
+s_pad = 1531465019, usec_pad = 114396
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:35:43.57
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465495
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 13:57:51 2018
+
+s = 1531465071, usec = 649597
+s_pad = 1531465071, usec_pad = 649597
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:36:43.57
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465555
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 13:58:59 2018
+
+s = 1531465139, usec = 40873
+s_pad = 1531465139, usec_pad = 040873
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:37:43.57
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465615
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "66.9 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 399999
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 13:59:51 2018
+
+s = 1531465191, usec = 685704
+s_pad = 1531465191, usec_pad = 685704
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:38:43.56
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465675
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "66.9 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 399999
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:00:59 2018
+
+s = 1531465259, usec = 84553
+s_pad = 1531465259, usec_pad = 084553
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:39:43.55
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465735
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "66.9 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 399999
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:01:51 2018
+
+s = 1531465311, usec = 725637
+s_pad = 1531465311, usec_pad = 725637
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:40:43.57
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465795
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:02:59 2018
+
+s = 1531465379, usec = 62480
+s_pad = 1531465379, usec_pad = 062480
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:41:43.56
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465855
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:03:20 2018
+
+s = 1531465400, usec = 660397
+s_pad = 1531465400, usec_pad = 660397
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:42:12.55
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_2F23E5B9"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_3_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (3) Rack 9 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "68.0 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 20
+
+SNMPv2-SMI::enterprises.5528.100.11.16 0
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:03:52 2018
+
+s = 1531465432, usec = 55174
+s_pad = 1531465432, usec_pad = 055174
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:42:43.56
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465915
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:04:28 2018
+
+s = 1531465468, usec = 61668
+s_pad = 1531465468, usec_pad = 061668
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:43:12.43
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_2F23E5B9"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_3_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (3) Rack 9 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465944
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.8 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 899999
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:04:51 2018
+
+s = 1531465491, usec = 756279
+s_pad = 1531465491, usec_pad = 756279
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:43:43.56
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531465975
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:05:20 2018
+
+s = 1531465520, usec = 671236
+s_pad = 1531465520, usec_pad = 671236
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:44:12.43
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_2F23E5B9"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_3_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (3) Rack 9 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466004
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.6 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 800000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:05:59 2018
+
+s = 1531465559, usec = 77400
+s_pad = 1531465559, usec_pad = 077400
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:44:43.56
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466035
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:06:20 2018
+
+s = 1531465580, usec = 572813
+s_pad = 1531465580, usec_pad = 572813
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:45:12.42
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_2F23E5B9"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_3_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (3) Rack 9 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466064
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.5 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 699999
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:06:51 2018
+
+s = 1531465611, usec = 725271
+s_pad = 1531465611, usec_pad = 725271
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:45:43.53
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466095
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:07:28 2018
+
+s = 1531465648, usec = 69633
+s_pad = 1531465648, usec_pad = 069633
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:46:12.43
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_2F23E5B9"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_3_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (3) Rack 9 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466124
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.3 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 600000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:07:28 2018
+
+s = 1531465648, usec = 224524
+s_pad = 1531465648, usec_pad = 224524
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:46:12.91
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_D16B6AAD"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_1_2_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_1"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (2) Rack 2 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531466124
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466124
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "68.0 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 20
+
+SNMPv2-SMI::enterprises.5528.100.11.16 0
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:07:51 2018
+
+s = 1531465671, usec = 734344
+s_pad = 1531465671, usec_pad = 734344
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:46:43.53
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466155
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:08:20 2018
+
+s = 1531465700, usec = 753015
+s_pad = 1531465700, usec_pad = 753015
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:47:12.54
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_2F23E5B9"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_3_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (3) Rack 9 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466184
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.1 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 500000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:08:20 2018
+
+s = 1531465700, usec = 984587
+s_pad = 1531465700, usec_pad = 984587
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:47:12.77
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_D16B6AAD"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_1_2_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_1"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (2) Rack 2 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531466124
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466184
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "68.0 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 20
+
+SNMPv2-SMI::enterprises.5528.100.11.16 0
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:08:24 2018
+
+s = 1531465704, usec = 930465
+s_pad = 1531465704, usec_pad = 930465
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:47:16.60
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.103
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_D16B6AAD"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_1_2_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_1"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (2) Rack 2 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531466124
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466188
+
+SNMPv2-SMI::enterprises.5528.100.11.12 1531466188
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "68.2 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 20
+
+SNMPv2-SMI::enterprises.5528.100.11.16 100000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:08:55 2018
+
+s = 1531465735, usec = 67658
+s_pad = 1531465735, usec_pad = 067658
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:47:43.54
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466215
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.3 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 600000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:09:20 2018
+
+s = 1531465760, usec = 684749
+s_pad = 1531465760, usec_pad = 684749
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:48:12.42
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_2F23E5B9"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_3_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (3) Rack 9 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466244
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "66.9 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 399999
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:09:55 2018
+
+s = 1531465795, usec = 83969
+s_pad = 1531465795, usec_pad = 083969
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:48:43.51
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466275
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.3 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 600000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:10:20 2018
+
+s = 1531465820, usec = 679181
+s_pad = 1531465820, usec_pad = 679181
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:49:12.43
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.3
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_2F23E5B9"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_3_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (3) Rack 9 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466304
+
+SNMPv2-SMI::enterprises.5528.100.11.12 0
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "66.7 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 300000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:10:27 2018
+
+s = 1531465827, usec = 237135
+s_pad = 1531465827, usec_pad = 237135
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:49:19.00
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.103
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_1DB94656"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_1_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (1) Rack 7 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531459136
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466311
+
+SNMPv2-SMI::enterprises.5528.100.11.12 1531466311
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "67.3 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 600000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 14:10:27 2018
+
+s = 1531465827, usec = 729034
+s_pad = 1531465827, usec_pad = 729034
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.111.9]:1024->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 27:21:49:19.49
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.5528.100.10.2.1.0.103
+
+SNMPv2-SMI::enterprises.5528.100.11.1 "nbErrorCond_2F23E5B9"
+
+SNMPv2-SMI::enterprises.5528.100.11.2 "nbErrorType_toolow"
+
+SNMPv2-SMI::enterprises.5528.100.11.3 "Value Too Low"
+
+SNMPv2-SMI::enterprises.5528.100.11.4 "nbAlinkEnc_0_3_TEMP"
+
+SNMPv2-SMI::enterprises.5528.100.11.6 "nbAlinkEnc_0"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Sensor Pod 150 (01)"
+
+SNMPv2-SMI::enterprises.5528.100.11.7 "Temperature  (3) Rack 9 - Truoc"
+
+SNMPv2-SMI::enterprises.5528.100.11.8 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.9 ""
+
+SNMPv2-SMI::enterprises.5528.100.11.10 1531465884
+
+SNMPv2-SMI::enterprises.5528.100.11.11 1531466311
+
+SNMPv2-SMI::enterprises.5528.100.11.12 1531466311
+
+SNMPv2-SMI::enterprises.5528.100.11.13 2
+
+SNMPv2-SMI::enterprises.5528.100.11.14 "66.7 __F"
+
+SNMPv2-SMI::enterprises.5528.100.11.15 19
+
+SNMPv2-SMI::enterprises.5528.100.11.16 300000
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.168.2
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "monitorvnpay"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.5528.100.10.2.1
+
+SNMPTTHANDLER started: Fri Jul 13 17:42:44 2018
+
+s = 1531478564, usec = 185736
+s_pad = 1531478564, usec_pad = 185736
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [10.22.99.50]:11073->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 81:4:05:55.54
+
+SNMPv2-MIB::snmpTrapOID.0 UCD-SNMP-MIB::ucdExperimental.990.0.17
+
+SNMPv2-MIB::sysLocation.0 Here
+
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 10.22.99.50
+
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "public"
+
+SNMPv2-MIB::snmpTrapEnterprise.0 UCD-SNMP-MIB::ucdExperimental.990
+
+SNMPTTHANDLER started: Sat Jul 14 02:48:04 2018
+
+s = 1531511284, usec = 921682
+s_pad = 1531511284, usec_pad = 921682
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.58]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:39:20.18
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5075 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5075 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5075 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5075 "Duplicate address 10.58.38.233 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5075 141:4:39:20.18
+
+SNMPTTHANDLER started: Sat Jul 14 02:48:05 2018
+
+s = 1531511285, usec = 67439
+s_pad = 1531511285, usec_pad = 067439
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.58]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:39:22.17
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5076 "LINK"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5076 4
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5076 "UPDOWN"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5076 "Interface FastEthernet0/0/0, changed state to up"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5076 141:4:39:22.17
+
+SNMPTTHANDLER started: Sat Jul 14 02:48:32 2018
+
+s = 1531511312, usec = 381365
+s_pad = 1531511312, usec_pad = 381365
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:39:51.17
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5077 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5077 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5077 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5077 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5077 141:4:39:51.16
+
+SNMPTTHANDLER started: Sat Jul 14 02:49:02 2018
+
+s = 1531511342, usec = 377677
+s_pad = 1531511342, usec_pad = 377677
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:40:21.17
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5078 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5078 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5078 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5078 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5078 141:4:40:21.16
+
+SNMPTTHANDLER started: Sat Jul 14 02:49:35 2018
+
+s = 1531511375, usec = 881150
+s_pad = 1531511375, usec_pad = 881150
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:40:51.17
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5079 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5079 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5079 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5079 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5079 141:4:40:51.16
+
+SNMPTTHANDLER started: Sat Jul 14 02:50:02 2018
+
+s = 1531511402, usec = 384362
+s_pad = 1531511402, usec_pad = 384362
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:41:21.17
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5080 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5080 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5080 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5080 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5080 141:4:41:21.16
+
+SNMPTTHANDLER started: Sat Jul 14 02:50:32 2018
+
+s = 1531511432, usec = 359343
+s_pad = 1531511432, usec_pad = 359343
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:41:51.17
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5081 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5081 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5081 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5081 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5081 141:4:41:51.16
+
+SNMPTTHANDLER started: Sat Jul 14 02:51:06 2018
+
+s = 1531511466, usec = 834252
+s_pad = 1531511466, usec_pad = 834252
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:42:22.17
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5082 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5082 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5082 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5082 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5082 141:4:42:22.16
+
+SNMPTTHANDLER started: Sat Jul 14 02:51:33 2018
+
+s = 1531511493, usec = 373846
+s_pad = 1531511493, usec_pad = 373846
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:42:52.17
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5083 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5083 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5083 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5083 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5083 141:4:42:52.16
+
+SNMPTTHANDLER started: Sat Jul 14 02:52:03 2018
+
+s = 1531511523, usec = 312606
+s_pad = 1531511523, usec_pad = 312606
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:43:22.17
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5084 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5084 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5084 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5084 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5084 141:4:43:22.16
+
+SNMPTTHANDLER started: Sat Jul 14 02:52:36 2018
+
+s = 1531511556, usec = 885564
+s_pad = 1531511556, usec_pad = 885564
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:43:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5085 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5085 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5085 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5085 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5085 141:4:43:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:53:03 2018
+
+s = 1531511583, usec = 658086
+s_pad = 1531511583, usec_pad = 658086
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:44:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5086 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5086 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5086 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5086 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5086 141:4:44:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:53:33 2018
+
+s = 1531511613, usec = 663389
+s_pad = 1531511613, usec_pad = 663389
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:44:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5087 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5087 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5087 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5087 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5087 141:4:44:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:54:06 2018
+
+s = 1531511646, usec = 910555
+s_pad = 1531511646, usec_pad = 910555
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:45:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5088 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5088 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5088 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5088 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5088 141:4:45:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:54:33 2018
+
+s = 1531511673, usec = 691320
+s_pad = 1531511673, usec_pad = 691320
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:45:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5089 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5089 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5089 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5089 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5089 141:4:45:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:55:03 2018
+
+s = 1531511703, usec = 653622
+s_pad = 1531511703, usec_pad = 653622
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:46:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5090 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5090 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5090 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5090 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5090 141:4:46:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:55:36 2018
+
+s = 1531511736, usec = 907336
+s_pad = 1531511736, usec_pad = 907336
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:46:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5091 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5091 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5091 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5091 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5091 141:4:46:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:56:03 2018
+
+s = 1531511763, usec = 812976
+s_pad = 1531511763, usec_pad = 812976
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:47:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5092 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5092 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5092 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5092 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5092 141:4:47:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:56:33 2018
+
+s = 1531511793, usec = 661373
+s_pad = 1531511793, usec_pad = 661373
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:47:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5093 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5093 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5093 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5093 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5093 141:4:47:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:57:06 2018
+
+s = 1531511826, usec = 909881
+s_pad = 1531511826, usec_pad = 909881
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:48:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5094 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5094 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5094 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5094 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5094 141:4:48:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:57:33 2018
+
+s = 1531511853, usec = 664480
+s_pad = 1531511853, usec_pad = 664480
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:48:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5095 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5095 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5095 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5095 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5095 141:4:48:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:58:03 2018
+
+s = 1531511883, usec = 626389
+s_pad = 1531511883, usec_pad = 626389
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:49:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5096 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5096 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5096 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5096 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5096 141:4:49:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:58:36 2018
+
+s = 1531511916, usec = 908854
+s_pad = 1531511916, usec_pad = 908854
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:49:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5097 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5097 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5097 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5097 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5097 141:4:49:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:59:03 2018
+
+s = 1531511943, usec = 666579
+s_pad = 1531511943, usec_pad = 666579
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:50:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5098 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5098 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5098 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5098 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5098 141:4:50:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 02:59:33 2018
+
+s = 1531511973, usec = 657946
+s_pad = 1531511973, usec_pad = 657946
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:50:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5099 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5099 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5099 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5099 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5099 141:4:50:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:00:06 2018
+
+s = 1531512006, usec = 905626
+s_pad = 1531512006, usec_pad = 905626
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:51:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5100 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5100 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5100 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5100 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5100 141:4:51:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:00:33 2018
+
+s = 1531512033, usec = 663403
+s_pad = 1531512033, usec_pad = 663403
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:51:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5101 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5101 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5101 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5101 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5101 141:4:51:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:01:03 2018
+
+s = 1531512063, usec = 691754
+s_pad = 1531512063, usec_pad = 691754
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:52:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5102 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5102 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5102 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5102 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5102 141:4:52:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:01:36 2018
+
+s = 1531512096, usec = 906684
+s_pad = 1531512096, usec_pad = 906684
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:52:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5103 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5103 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5103 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5103 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5103 141:4:52:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:02:03 2018
+
+s = 1531512123, usec = 692148
+s_pad = 1531512123, usec_pad = 692148
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:53:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5104 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5104 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5104 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5104 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5104 141:4:53:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:02:33 2018
+
+s = 1531512153, usec = 803487
+s_pad = 1531512153, usec_pad = 803487
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:53:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5105 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5105 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5105 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5105 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5105 141:4:53:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:03:06 2018
+
+s = 1531512186, usec = 906406
+s_pad = 1531512186, usec_pad = 906406
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:54:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5106 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5106 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5106 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5106 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5106 141:4:54:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:03:33 2018
+
+s = 1531512213, usec = 669912
+s_pad = 1531512213, usec_pad = 669912
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:54:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5107 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5107 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5107 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5107 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5107 141:4:54:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:04:03 2018
+
+s = 1531512243, usec = 885240
+s_pad = 1531512243, usec_pad = 885240
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:55:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5108 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5108 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5108 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5108 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5108 141:4:55:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:04:36 2018
+
+s = 1531512276, usec = 924859
+s_pad = 1531512276, usec_pad = 924859
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:55:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5109 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5109 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5109 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5109 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5109 141:4:55:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:05:03 2018
+
+s = 1531512303, usec = 697372
+s_pad = 1531512303, usec_pad = 697372
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:56:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5110 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5110 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5110 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5110 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5110 141:4:56:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:05:33 2018
+
+s = 1531512333, usec = 673968
+s_pad = 1531512333, usec_pad = 673968
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:56:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5111 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5111 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5111 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5111 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5111 141:4:56:52.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:06:06 2018
+
+s = 1531512366, usec = 989071
+s_pad = 1531512366, usec_pad = 989071
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:57:22.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5112 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5112 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5112 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5112 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5112 141:4:57:22.44
+
+SNMPTTHANDLER started: Sat Jul 14 03:06:33 2018
+
+s = 1531512393, usec = 669732
+s_pad = 1531512393, usec_pad = 669732
+
+Data received:
+
+<UNKNOWN>
+
+UDP: [192.168.9.246]:53573->[10.22.99.50]
+
+DISMAN-EVENT-MIB::sysUpTimeInstance 141:4:57:52.44
+
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.9.9.41.2.0.1
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.2.5113 "IP"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.3.5113 5
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.4.5113 "DUPADDR"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.5.5113 "Duplicate address 10.58.38.235 on FastEthernet0/0, sourced by 003c.1063.df49"
+
+SNMPv2-SMI::enterprises.9.9.41.1.2.3.1.6.5113 141:4:57:52.44
+

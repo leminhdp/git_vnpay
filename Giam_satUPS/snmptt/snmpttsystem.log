@@ -1,0 +1,915 @@
+Sun Jul 29 03:09:44 2018 Reloading configuration file(s)
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/IPV6-MIB.txt
+Sun Jul 29 03:09:44 2018 Finished loading 20 lines from /usr/share/snmp/mibs/processed_mibs/IPV6-MIB.txt
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/IF-MIB.txt
+Sun Jul 29 03:09:44 2018 Finished loading 39 lines from /usr/share/snmp/mibs/processed_mibs/IF-MIB.txt
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/EfficientIP-TRAP.txt
+Sun Jul 29 03:09:44 2018 Finished loading 59 lines from /usr/share/snmp/mibs/processed_mibs/EfficientIP-TRAP.txt
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/EfficientIP-DNS.txt
+Sun Jul 29 03:09:44 2018 Finished loading 33 lines from /usr/share/snmp/mibs/processed_mibs/EfficientIP-DNS.txt
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/EfficientIP-DHCP.txt
+Sun Jul 29 03:09:44 2018 Finished loading 92 lines from /usr/share/snmp/mibs/processed_mibs/EfficientIP-DHCP.txt
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/EfficientIP-APPLIANCE.txt
+Sun Jul 29 03:09:44 2018 Finished loading 36 lines from /usr/share/snmp/mibs/processed_mibs/EfficientIP-APPLIANCE.txt
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/CISCO-SYSLOG-MIB-V1SMI.txt
+Sun Jul 29 03:09:44 2018 Finished loading 22 lines from /usr/share/snmp/mibs/processed_mibs/CISCO-SYSLOG-MIB-V1SMI.txt
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/CISCO-SYSLOG-MIB.txt
+Sun Jul 29 03:09:44 2018 Finished loading 22 lines from /usr/share/snmp/mibs/processed_mibs/CISCO-SYSLOG-MIB.txt
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/CISCO-IF-MONITOR-NOTIF-MIB.txt
+Sun Jul 29 03:09:44 2018 Finished loading 25 lines from /usr/share/snmp/mibs/processed_mibs/CISCO-IF-MONITOR-NOTIF-MIB.txt
+Sun Jul 29 03:09:44 2018 Loading /usr/share/snmp/mibs/processed_mibs/CISCO-GENERAL-TRAPS.txt
+Sun Jul 29 03:09:44 2018 Finished loading 113 lines from /usr/share/snmp/mibs/processed_mibs/CISCO-GENERAL-TRAPS.txt
+Sun Jul 29 03:09:44 2018 Loading /etc/snmp/snmptt.vnpay.conf
+Sun Jul 29 03:09:45 2018 Finished loading 23417 lines from /etc/snmp/snmptt.vnpay.conf
+Sun Jul 29 03:09:45 2018 Loading /etc/snmp/snmptt.conf
+Sun Jul 29 03:09:45 2018 Finished loading 1011 lines from /etc/snmp/snmptt.conf
+Sun Jul 29 03:09:45 2018 Loading /etc/snmp/snmptt.conf.nxti
+Sun Jul 29 03:09:45 2018 Finished loading 23296 lines from /etc/snmp/snmptt.conf.nxti
+Sun Jul 29 03:10:31 2018 Unable to delete trap file #snmptt-trap-1532808629102966 from spool dir
+Sun Jul 29 03:10:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532808629268507
+Sun Jul 29 03:14:36 2018 Unable to delete trap file #snmptt-trap-1532808867465215 from spool dir
+Sun Jul 29 03:14:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532808868103295
+Sun Jul 29 03:14:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532808869080422
+Sun Jul 29 03:14:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532808869488468
+Sun Jul 29 03:18:35 2018 Unable to delete trap file #snmptt-trap-1532809111182784 from spool dir
+Sun Jul 29 03:20:36 2018 Unable to delete trap file #snmptt-trap-1532809230982415 from spool dir
+Sun Jul 29 03:20:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532809231156139
+Sun Jul 29 03:25:31 2018 Unable to delete trap file #snmptt-trap-1532809528466939 from spool dir
+Sun Jul 29 03:25:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532809529474363
+Sun Jul 29 03:25:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532809529576614
+Sun Jul 29 03:27:31 2018 Unable to delete trap file #snmptt-trap-1532809647475716 from spool dir
+Sun Jul 29 03:27:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532809648440167
+Sun Jul 29 03:27:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532809649489158
+Sun Jul 29 03:27:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532809650566602
+Sun Jul 29 03:35:31 2018 Unable to delete trap file #snmptt-trap-1532810128819749 from spool dir
+Sun Jul 29 03:35:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532810129804643
+Sun Jul 29 03:37:36 2018 Unable to delete trap file #snmptt-trap-1532810247490041 from spool dir
+Sun Jul 29 03:37:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532810248145131
+Sun Jul 29 03:37:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532810249138522
+Sun Jul 29 03:37:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532810250109759
+Sun Jul 29 03:41:36 2018 Unable to delete trap file #snmptt-trap-1532810491314109 from spool dir
+Sun Jul 29 03:45:36 2018 Unable to delete trap file #snmptt-trap-1532810731239545 from spool dir
+Sun Jul 29 03:50:31 2018 Unable to delete trap file #snmptt-trap-1532811028994602 from spool dir
+Sun Jul 29 03:55:36 2018 Unable to delete trap file #snmptt-trap-1532811331261079 from spool dir
+Sun Jul 29 04:08:31 2018 Unable to delete trap file #snmptt-trap-1532812108769886 from spool dir
+Sun Jul 29 04:08:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532812109877446
+Sun Jul 29 04:09:32 2018 Unable to delete trap file #snmptt-trap-1532812170890781 from spool dir
+Sun Jul 29 04:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532812171125530
+Sun Jul 29 04:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532812171214285
+Sun Jul 29 04:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532812171482369
+Sun Jul 29 04:10:36 2018 Unable to delete trap file #snmptt-trap-1532812227512499 from spool dir
+Sun Jul 29 04:10:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532812228512179
+Sun Jul 29 04:10:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532812229464235
+Sun Jul 29 04:10:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532812230468958
+Sun Jul 29 04:15:31 2018 Unable to delete trap file #snmptt-trap-1532812528503507 from spool dir
+Sun Jul 29 04:15:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532812529499194
+Sun Jul 29 04:20:36 2018 Unable to delete trap file #snmptt-trap-1532812831218293 from spool dir
+Sun Jul 29 04:29:31 2018 Unable to delete trap file #snmptt-trap-1532813368522527 from spool dir
+Sun Jul 29 04:29:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532813369526966
+Sun Jul 29 04:37:36 2018 Unable to delete trap file #snmptt-trap-1532813847556331 from spool dir
+Sun Jul 29 04:37:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532813848527052
+Sun Jul 29 04:37:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532813849531049
+Sun Jul 29 04:37:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532813850131252
+Sun Jul 29 04:41:36 2018 Unable to delete trap file #snmptt-trap-1532814091225449 from spool dir
+Sun Jul 29 04:49:32 2018 Unable to delete trap file #snmptt-trap-1532814570799987 from spool dir
+Sun Jul 29 04:49:33 2018 Unable to delete trap file #snmptt-trap-1532814570906930 from spool dir
+Sun Jul 29 04:49:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532814571064271
+Sun Jul 29 04:50:36 2018 Unable to delete trap file #snmptt-trap-1532814628595118 from spool dir
+Sun Jul 29 04:50:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532814629584149
+Sun Jul 29 04:55:31 2018 Unable to delete trap file #snmptt-trap-1532814929529025 from spool dir
+Sun Jul 29 04:55:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532814929676861
+Sun Jul 29 04:59:30 2018 Unable to delete trap file #snmptt-trap-1532815168015540 from spool dir
+Sun Jul 29 04:59:30 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532815168170474
+Sun Jul 29 04:59:30 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532815169155480
+Sun Jul 29 05:00:35 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532815231355914
+Sun Jul 29 05:01:36 2018 Unable to delete trap file #snmptt-trap-1532815292582537 from spool dir
+Sun Jul 29 05:01:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532815295885622
+Sun Jul 29 05:07:36 2018 Unable to delete trap file #snmptt-trap-1532815651333360 from spool dir
+Sun Jul 29 05:26:35 2018 Unable to delete trap file #snmptt-trap-1532816791191221 from spool dir
+Sun Jul 29 05:26:35 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532816791397055
+Sun Jul 29 05:26:35 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532816791581209
+Sun Jul 29 05:32:36 2018 Unable to delete trap file #snmptt-trap-1532817151407598 from spool dir
+Sun Jul 29 05:35:40 2018 Unable to delete trap file #snmptt-trap-1532817334968127 from spool dir
+Sun Jul 29 05:42:26 2018 Unable to delete trap file #snmptt-trap-1532817744963023 from spool dir
+Sun Jul 29 05:44:30 2018 Unable to delete trap file #snmptt-trap-1532817868101345 from spool dir
+Sun Jul 29 05:44:30 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532817869124569
+Sun Jul 29 05:46:31 2018 Unable to delete trap file #snmptt-trap-1532817988879107 from spool dir
+Sun Jul 29 05:46:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532817989883757
+Sun Jul 29 05:49:36 2018 Unable to delete trap file #snmptt-trap-1532818171356348 from spool dir
+Sun Jul 29 05:54:31 2018 Unable to delete trap file #snmptt-trap-1532818468791024 from spool dir
+Sun Jul 29 05:58:31 2018 Unable to delete trap file #snmptt-trap-1532818707595612 from spool dir
+Sun Jul 29 05:58:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532818708692036
+Sun Jul 29 05:58:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532818709014733
+Sun Jul 29 05:58:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532818709191418
+Sun Jul 29 06:03:36 2018 Unable to delete trap file #snmptt-trap-1532819012140184 from spool dir
+Sun Jul 29 06:03:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532819012291357
+Sun Jul 29 06:03:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532819012445111
+Sun Jul 29 06:14:31 2018 Unable to delete trap file #snmptt-trap-1532819669182059 from spool dir
+Sun Jul 29 06:18:36 2018 Unable to delete trap file #snmptt-trap-1532819909558091 from spool dir
+Sun Jul 29 06:18:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532819910639384
+Sun Jul 29 06:23:31 2018 Unable to delete trap file #snmptt-trap-1532820207607995 from spool dir
+Sun Jul 29 06:23:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532820208190880
+Sun Jul 29 06:23:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532820209139542
+Sun Jul 29 06:23:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532820209527298
+Sun Jul 29 06:26:36 2018 Unable to delete trap file #snmptt-trap-1532820391313156 from spool dir
+Sun Jul 29 06:26:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532820391414102
+Sun Jul 29 06:32:36 2018 Unable to delete trap file #snmptt-trap-1532820751344500 from spool dir
+Sun Jul 29 06:32:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532820751543824
+Sun Jul 29 06:41:31 2018 Unable to delete trap file #snmptt-trap-1532821287659949 from spool dir
+Sun Jul 29 06:41:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532821288734827
+Sun Jul 29 06:41:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532821289719698
+Sun Jul 29 06:41:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532821290641670
+Sun Jul 29 06:51:32 2018 Unable to delete trap file #snmptt-trap-1532821889544205 from spool dir
+Sun Jul 29 06:55:36 2018 Unable to delete trap file #snmptt-trap-1532822127654981 from spool dir
+Sun Jul 29 06:55:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532822128669015
+Sun Jul 29 06:55:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532822129321271
+Sun Jul 29 06:55:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532822130331647
+Sun Jul 29 07:00:31 2018 Unable to delete trap file #snmptt-trap-1532822427603248 from spool dir
+Sun Jul 29 07:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532822428588811
+Sun Jul 29 07:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532822428940857
+Sun Jul 29 07:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532822430037786
+Sun Jul 29 07:06:31 2018 Unable to delete trap file #snmptt-trap-1532822787655451 from spool dir
+Sun Jul 29 07:06:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532822788657781
+Sun Jul 29 07:06:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532822789651817
+Sun Jul 29 07:06:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532822790695394
+Sun Jul 29 07:18:36 2018 Unable to delete trap file #snmptt-trap-1532823507749367 from spool dir
+Sun Jul 29 07:18:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532823508657407
+Sun Jul 29 07:18:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532823509656840
+Sun Jul 29 07:18:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532823510660307
+Sun Jul 29 07:22:36 2018 Unable to delete trap file #snmptt-trap-1532823751035107 from spool dir
+Sun Jul 29 07:22:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532823751128679
+Sun Jul 29 07:22:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532823751271780
+Sun Jul 29 07:22:36 2018 Unable to delete trap file #snmptt-trap-1532823751419595 from spool dir
+Sun Jul 29 07:27:31 2018 Unable to delete trap file #snmptt-trap-1532824049662972 from spool dir
+Sun Jul 29 07:33:31 2018 Unable to delete trap file #snmptt-trap-1532824407664712 from spool dir
+Sun Jul 29 07:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532824408664236
+Sun Jul 29 07:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532824409670694
+Sun Jul 29 07:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532824410655179
+Sun Jul 29 07:43:36 2018 Unable to delete trap file #snmptt-trap-1532825007689157 from spool dir
+Sun Jul 29 07:43:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532825008030707
+Sun Jul 29 07:43:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532825009109162
+Sun Jul 29 07:43:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532825010085985
+Sun Jul 29 07:47:36 2018 Unable to delete trap file #snmptt-trap-1532825251537678 from spool dir
+Sun Jul 29 07:54:31 2018 Unable to delete trap file #snmptt-trap-1532825668671249 from spool dir
+Sun Jul 29 07:54:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532825669671145
+Sun Jul 29 08:00:31 2018 Unable to delete trap file #snmptt-trap-1532826027674961 from spool dir
+Sun Jul 29 08:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532826028638839
+Sun Jul 29 08:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532826029662437
+Sun Jul 29 08:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532826030090770
+Sun Jul 29 08:07:31 2018 Unable to delete trap file #snmptt-trap-1532826451089092 from spool dir
+Sun Jul 29 08:07:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532826451214099
+Sun Jul 29 08:07:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532826451377788
+Sun Jul 29 08:17:32 2018 Unable to delete trap file #snmptt-trap-1532827051635936 from spool dir
+Sun Jul 29 08:18:36 2018 Unable to delete trap file #snmptt-trap-1532827108685484 from spool dir
+Sun Jul 29 08:18:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532827109668988
+Sun Jul 29 08:18:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532827110670053
+Sun Jul 29 08:22:36 2018 Unable to delete trap file #snmptt-trap-1532827351280373 from spool dir
+Sun Jul 29 08:22:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532827351433386
+Sun Jul 29 08:22:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532827351580410
+Sun Jul 29 08:37:36 2018 Unable to delete trap file #snmptt-trap-1532828249679166 from spool dir
+Sun Jul 29 08:37:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532828250704414
+Sun Jul 29 08:41:36 2018 Unable to delete trap file #snmptt-trap-1532828491365951 from spool dir
+Sun Jul 29 08:41:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532828491516760
+Sun Jul 29 08:46:31 2018 Unable to delete trap file #snmptt-trap-1532828788718802 from spool dir
+Sun Jul 29 08:46:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532828789710129
+Sun Jul 29 08:52:31 2018 Unable to delete trap file #snmptt-trap-1532829149718479 from spool dir
+Sun Jul 29 08:58:32 2018 Unable to delete trap file #snmptt-trap-1532829508650313 from spool dir
+Sun Jul 29 08:58:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532829509713120
+Sun Jul 29 08:58:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532829510714036
+Sun Jul 29 09:08:36 2018 Unable to delete trap file #snmptt-trap-1532830109714382 from spool dir
+Sun Jul 29 09:08:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532830110712381
+Sun Jul 29 09:12:36 2018 Unable to delete trap file #snmptt-trap-1532830351458870 from spool dir
+Sun Jul 29 09:12:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532830351605689
+Sun Jul 29 09:18:36 2018 Unable to delete trap file #snmptt-trap-1532830711421739 from spool dir
+Sun Jul 29 09:18:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532830711568201
+Sun Jul 29 09:24:36 2018 Unable to delete trap file #snmptt-trap-1532831072026202 from spool dir
+Sun Jul 29 09:33:31 2018 Unable to delete trap file #snmptt-trap-1532831608788539 from spool dir
+Sun Jul 29 09:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532831609731510
+Sun Jul 29 09:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532831610657182
+Sun Jul 29 09:47:36 2018 Unable to delete trap file #snmptt-trap-1532832447737950 from spool dir
+Sun Jul 29 09:47:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532832448740204
+Sun Jul 29 09:47:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532832449764859
+Sun Jul 29 09:47:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532832450747026
+Sun Jul 29 09:52:31 2018 Unable to delete trap file #snmptt-trap-1532832747762057 from spool dir
+Sun Jul 29 09:52:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532832748734627
+Sun Jul 29 09:52:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532832749726778
+Sun Jul 29 09:52:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532832750364173
+Sun Jul 29 09:56:31 2018 Unable to delete trap file #snmptt-trap-1532832987728628 from spool dir
+Sun Jul 29 09:56:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532832988700600
+Sun Jul 29 09:56:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532832989288340
+Sun Jul 29 09:56:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532832990272665
+Sun Jul 29 10:00:31 2018 Unable to delete trap file #snmptt-trap-1532833227741693 from spool dir
+Sun Jul 29 10:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532833228739711
+Sun Jul 29 10:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532833229744244
+Sun Jul 29 10:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532833230880498
+Sun Jul 29 10:07:31 2018 Unable to delete trap file #snmptt-trap-1532833651216723 from spool dir
+Sun Jul 29 10:16:31 2018 Unable to delete trap file #snmptt-trap-1532834189198364 from spool dir
+Sun Jul 29 10:16:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834189552642
+Sun Jul 29 10:18:32 2018 Unable to delete trap file #snmptt-trap-1532834307684069 from spool dir
+Sun Jul 29 10:18:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834308692159
+Sun Jul 29 10:18:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834309736096
+Sun Jul 29 10:18:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834310102708
+Sun Jul 29 10:20:36 2018 Unable to delete trap file #snmptt-trap-1532834429071115 from spool dir
+Sun Jul 29 10:20:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834430132643
+Sun Jul 29 10:25:31 2018 Unable to delete trap file #snmptt-trap-1532834727757797 from spool dir
+Sun Jul 29 10:25:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834728686976
+Sun Jul 29 10:25:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834729647588
+Sun Jul 29 10:25:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834730667533
+Sun Jul 29 10:28:36 2018 Unable to delete trap file #snmptt-trap-1532834911315164 from spool dir
+Sun Jul 29 10:28:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834911444699
+Sun Jul 29 10:28:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532834911595308
+Sun Jul 29 10:33:31 2018 Unable to delete trap file #snmptt-trap-1532835208357077 from spool dir
+Sun Jul 29 10:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532835208562505
+Sun Jul 29 10:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532835209304489
+Sun Jul 29 10:36:32 2018 Unable to delete trap file #snmptt-trap-1532835391329094 from spool dir
+Sun Jul 29 10:43:31 2018 Unable to delete trap file #snmptt-trap-1532835807730176 from spool dir
+Sun Jul 29 10:43:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532835808741480
+Sun Jul 29 10:43:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532835809726630
+Sun Jul 29 10:43:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532835810658195
+Sun Jul 29 10:45:32 2018 Unable to delete trap file #snmptt-trap-1532835927791838 from spool dir
+Sun Jul 29 10:45:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532835928791974
+Sun Jul 29 10:45:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532835929785656
+Sun Jul 29 10:45:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532835930716021
+Sun Jul 29 10:51:36 2018 Unable to delete trap file #snmptt-trap-1532836287898359 from spool dir
+Sun Jul 29 10:51:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532836288898887
+Sun Jul 29 10:51:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532836289756074
+Sun Jul 29 10:51:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532836290776376
+Sun Jul 29 10:55:36 2018 Unable to delete trap file #snmptt-trap-1532836531729834 from spool dir
+Sun Jul 29 11:00:31 2018 Unable to delete trap file #snmptt-trap-1532836828799018 from spool dir
+Sun Jul 29 11:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532836829525996
+Sun Jul 29 11:00:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532836830529630
+Sun Jul 29 11:06:31 2018 Unable to delete trap file #snmptt-trap-1532837188756496 from spool dir
+Sun Jul 29 11:06:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532837189514034
+Sun Jul 29 11:06:32 2018 Unable to delete trap file #snmptt-trap-1532837190473970 from spool dir
+Sun Jul 29 11:14:32 2018 Unable to delete trap file #snmptt-trap-1532837669829097 from spool dir
+Sun Jul 29 11:26:36 2018 Unable to delete trap file #snmptt-trap-1532838387814613 from spool dir
+Sun Jul 29 11:26:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532838388778457
+Sun Jul 29 11:26:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532838389220122
+Sun Jul 29 11:26:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532838389398604
+Sun Jul 29 11:31:31 2018 Unable to delete trap file #snmptt-trap-1532838687986987 from spool dir
+Sun Jul 29 11:31:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532838688808536
+Sun Jul 29 11:31:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532838688963154
+Sun Jul 29 11:31:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532838689908050
+Sun Jul 29 11:32:36 2018 Unable to delete trap file #snmptt-trap-1532838751319386 from spool dir
+Sun Jul 29 11:32:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532838751466152
+Sun Jul 29 11:32:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532838751616937
+Sun Jul 29 11:32:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532838751766821
+Sun Jul 29 11:37:31 2018 Unable to delete trap file #snmptt-trap-1532839047819072 from spool dir
+Sun Jul 29 11:37:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532839048854168
+Sun Jul 29 11:37:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532839048944409
+Sun Jul 29 11:37:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532839050145417
+Sun Jul 29 11:40:32 2018 Unable to delete trap file #snmptt-trap-1532839231352405 from spool dir
+Sun Jul 29 11:40:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532839231492333
+Sun Jul 29 11:47:32 2018 Unable to delete trap file #snmptt-trap-1532839649761496 from spool dir
+Sun Jul 29 11:53:36 2018 Unable to delete trap file #snmptt-trap-1532840007810412 from spool dir
+Sun Jul 29 11:53:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532840008828583
+Sun Jul 29 11:53:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532840009826285
+Sun Jul 29 11:53:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532840011058060
+Sun Jul 29 11:57:36 2018 Unable to delete trap file #snmptt-trap-1532840251651664 from spool dir
+Sun Jul 29 11:57:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532840251806060
+Sun Jul 29 12:02:31 2018 Unable to delete trap file #snmptt-trap-1532840549828379 from spool dir
+Sun Jul 29 12:06:31 2018 Unable to delete trap file #snmptt-trap-1532840788845644 from spool dir
+Sun Jul 29 12:06:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532840789846323
+Sun Jul 29 12:13:32 2018 Unable to delete trap file #snmptt-trap-1532841211361068 from spool dir
+Sun Jul 29 12:22:31 2018 Unable to delete trap file #snmptt-trap-1532841748847959 from spool dir
+Sun Jul 29 12:22:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532841749847221
+Sun Jul 29 12:22:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532841750867243
+Sun Jul 29 12:23:37 2018 Unable to delete trap file #snmptt-trap-1532841813867710 from spool dir
+Sun Jul 29 12:23:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532841813954540
+Sun Jul 29 12:23:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532841814079017
+Sun Jul 29 12:23:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532841814233558
+Sun Jul 29 12:28:36 2018 Unable to delete trap file #snmptt-trap-1532842107855567 from spool dir
+Sun Jul 29 12:28:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532842108945110
+Sun Jul 29 12:28:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532842109899585
+Sun Jul 29 12:28:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532842110857826
+Sun Jul 29 12:33:31 2018 Unable to delete trap file #snmptt-trap-1532842407853646 from spool dir
+Sun Jul 29 12:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532842408855253
+Sun Jul 29 12:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532842409914098
+Sun Jul 29 12:33:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532842410890022
+Sun Jul 29 12:38:36 2018 Unable to delete trap file #snmptt-trap-1532842711678092 from spool dir
+Sun Jul 29 12:38:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532842711764742
+Sun Jul 29 12:41:32 2018 Unable to delete trap file #snmptt-trap-1532842888825979 from spool dir
+Sun Jul 29 12:41:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532842889801584
+Sun Jul 29 12:41:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532842890881354
+Sun Jul 29 12:47:31 2018 Unable to delete trap file #snmptt-trap-1532843247904404 from spool dir
+Sun Jul 29 12:47:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532843248859253
+Sun Jul 29 12:47:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532843249861885
+Sun Jul 29 12:47:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532843250854294
+Sun Jul 29 12:54:32 2018 Unable to delete trap file #snmptt-trap-1532843671407051 from spool dir
+Sun Jul 29 12:54:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532843671562742
+Sun Jul 29 12:54:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532843671720148
+Sun Jul 29 13:01:36 2018 Unable to delete trap file #snmptt-trap-1532844087873062 from spool dir
+Sun Jul 29 13:01:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532844088874525
+Sun Jul 29 13:01:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532844089786283
+Sun Jul 29 13:01:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532844090781986
+Sun Jul 29 13:06:31 2018 Unable to delete trap file #snmptt-trap-1532844388871022 from spool dir
+Sun Jul 29 13:06:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532844389881515
+Sun Jul 29 13:11:36 2018 Unable to delete trap file #snmptt-trap-1532844691694131 from spool dir
+Sun Jul 29 13:11:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532844691853542
+Sun Jul 29 13:20:32 2018 Unable to delete trap file #snmptt-trap-1532845227854702 from spool dir
+Sun Jul 29 13:20:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532845228883016
+Sun Jul 29 13:20:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532845229894759
+Sun Jul 29 13:20:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532845230822394
+Sun Jul 29 13:27:32 2018 Unable to delete trap file #snmptt-trap-1532845651419229 from spool dir
+Sun Jul 29 13:34:36 2018 Unable to delete trap file #snmptt-trap-1532846067889934 from spool dir
+Sun Jul 29 13:34:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532846068857238
+Sun Jul 29 13:34:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532846069903124
+Sun Jul 29 13:34:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532846070870569
+Sun Jul 29 13:38:36 2018 Unable to delete trap file #snmptt-trap-1532846311681745 from spool dir
+Sun Jul 29 13:38:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532846311830060
+Sun Jul 29 13:43:31 2018 Unable to delete trap file #snmptt-trap-1532846609904822 from spool dir
+Sun Jul 29 13:47:31 2018 Unable to delete trap file #snmptt-trap-1532846848869772 from spool dir
+Sun Jul 29 13:47:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532846849842553
+Sun Jul 29 13:48:32 2018 Unable to delete trap file #snmptt-trap-1532846911403296 from spool dir
+Sun Jul 29 13:48:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532846911553745
+Sun Jul 29 13:57:31 2018 Unable to delete trap file #snmptt-trap-1532847449931759 from spool dir
+Sun Jul 29 14:02:32 2018 Unable to delete trap file #snmptt-trap-1532847751614880 from spool dir
+Sun Jul 29 14:02:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532847751757226
+Sun Jul 29 14:09:36 2018 Unable to delete trap file #snmptt-trap-1532848167909179 from spool dir
+Sun Jul 29 14:09:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532848168920219
+Sun Jul 29 14:09:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532848169916517
+Sun Jul 29 14:09:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532848170907817
+Sun Jul 29 14:14:31 2018 Unable to delete trap file #snmptt-trap-1532848469846384 from spool dir
+Sun Jul 29 14:18:31 2018 Unable to delete trap file #snmptt-trap-1532848708395565 from spool dir
+Sun Jul 29 14:18:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532848709424684
+Sun Jul 29 14:18:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532848710399970
+Sun Jul 29 14:26:32 2018 Unable to delete trap file #snmptt-trap-1532849188904602 from spool dir
+Sun Jul 29 14:26:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532849189955488
+Sun Jul 29 14:26:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532849190942169
+Sun Jul 29 14:38:32 2018 Unable to delete trap file #snmptt-trap-1532849907962833 from spool dir
+Sun Jul 29 14:38:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532849908967704
+Sun Jul 29 14:38:36 2018 Unable to delete trap file #snmptt-trap-1532849909303012 from spool dir
+Sun Jul 29 14:38:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532849910303573
+Sun Jul 29 14:42:36 2018 Unable to delete trap file #snmptt-trap-1532850151707121 from spool dir
+Sun Jul 29 14:42:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532850151857188
+Sun Jul 29 14:46:36 2018 Unable to delete trap file #snmptt-trap-1532850391706526 from spool dir
+Sun Jul 29 14:46:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532850391857103
+Sun Jul 29 14:52:36 2018 Unable to delete trap file #snmptt-trap-1532850751864112 from spool dir
+Sun Jul 29 14:52:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532850752018522
+Sun Jul 29 15:06:32 2018 Unable to delete trap file #snmptt-trap-1532851591397483 from spool dir
+Sun Jul 29 15:06:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532851591535051
+Sun Jul 29 15:06:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532851591722051
+Sun Jul 29 15:06:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532851591875212
+Sun Jul 29 15:09:36 2018 Unable to delete trap file #snmptt-trap-1532851768009933 from spool dir
+Sun Jul 29 15:09:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532851768781896
+Sun Jul 29 15:09:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532851769786798
+Sun Jul 29 15:09:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532851770807964
+Sun Jul 29 15:13:36 2018 Unable to delete trap file #snmptt-trap-1532852011842623 from spool dir
+Sun Jul 29 15:22:31 2018 Unable to delete trap file #snmptt-trap-1532852548002456 from spool dir
+Sun Jul 29 15:22:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532852549098210
+Sun Jul 29 15:22:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532852550109773
+Sun Jul 29 15:22:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532852550679261
+Sun Jul 29 15:29:32 2018 Unable to delete trap file #snmptt-trap-1532852971505119 from spool dir
+Sun Jul 29 15:38:36 2018 Unable to delete trap file #snmptt-trap-1532853508954660 from spool dir
+Sun Jul 29 15:38:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532853510042510
+Sun Jul 29 15:38:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532853510947607
+Sun Jul 29 15:43:31 2018 Unable to delete trap file #snmptt-trap-1532853808035164 from spool dir
+Sun Jul 29 15:43:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532853809033546
+Sun Jul 29 15:43:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532853810028187
+Sun Jul 29 15:43:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532853810991057
+Sun Jul 29 15:48:37 2018 Unable to delete trap file #snmptt-trap-1532854112042343 from spool dir
+Sun Jul 29 15:50:33 2018 Unable to delete trap file #snmptt-trap-1532854229444680 from spool dir
+Sun Jul 29 15:50:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532854229594798
+Sun Jul 29 15:50:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532854229744306
+Sun Jul 29 15:50:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532854229893760
+Sun Jul 29 15:50:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532854230049714
+Sun Jul 29 15:50:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532854230449281
+Sun Jul 29 15:51:34 2018 Unable to delete trap file #snmptt-trap-1532854289017290 from spool dir
+Sun Jul 29 15:51:34 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532854289983211
+Sun Jul 29 15:54:38 2018 Unable to delete trap file #snmptt-trap-1532854470039498 from spool dir
+Sun Jul 29 15:54:38 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532854470208167
+Sun Jul 29 15:56:09 2018 Unable to delete trap file #snmptt-trap-1532854567379773 from spool dir
+Sun Jul 29 15:58:38 2018 Unable to delete trap file #snmptt-trap-1532854710366401 from spool dir
+Sun Jul 29 16:01:37 2018 Unable to delete trap file #snmptt-trap-1532854889051530 from spool dir
+Sun Jul 29 16:01:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532854889202138
+Sun Jul 29 16:01:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532854890128181
+Sun Jul 29 16:04:36 2018 Unable to delete trap file #snmptt-trap-1532855068090259 from spool dir
+Sun Jul 29 16:04:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532855068960875
+Sun Jul 29 16:04:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532855069976356
+Sun Jul 29 16:04:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532855070966317
+Sun Jul 29 16:09:31 2018 Unable to delete trap file #snmptt-trap-1532855369067585 from spool dir
+Sun Jul 29 16:09:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532855370116424
+Sun Jul 29 16:15:32 2018 Unable to delete trap file #snmptt-trap-1532855730047896 from spool dir
+Sun Jul 29 16:23:32 2018 Unable to delete trap file #snmptt-trap-1532856210054094 from spool dir
+Sun Jul 29 16:32:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532856751554499
+Sun Jul 29 16:32:33 2018 Unable to delete trap file #snmptt-trap-1532856751767295 from spool dir
+Sun Jul 29 16:32:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532856752044521
+Sun Jul 29 16:32:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532856752222232
+Sun Jul 29 16:33:37 2018 Unable to delete trap file #snmptt-trap-1532856808103243 from spool dir
+Sun Jul 29 16:33:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532856809067632
+Sun Jul 29 16:33:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532856810072571
+Sun Jul 29 16:33:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532856811069502
+Sun Jul 29 16:37:36 2018 Unable to delete trap file #snmptt-trap-1532857051805487 from spool dir
+Sun Jul 29 16:37:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532857051907433
+Sun Jul 29 16:44:32 2018 Unable to delete trap file #snmptt-trap-1532857469061481 from spool dir
+Sun Jul 29 16:44:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532857469212266
+Sun Jul 29 16:44:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532857470114384
+Sun Jul 29 16:45:18 2018 Unable to delete trap file #snmptt-trap-1532857516526480 from spool dir
+Sun Jul 29 16:47:37 2018 Unable to delete trap file #snmptt-trap-1532857649006806 from spool dir
+Sun Jul 29 16:47:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532857650001501
+Sun Jul 29 16:47:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532857650366286
+Sun Jul 29 16:50:36 2018 Unable to delete trap file #snmptt-trap-1532857828101229 from spool dir
+Sun Jul 29 16:50:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532857829038783
+Sun Jul 29 16:50:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532857829187413
+Sun Jul 29 16:50:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532857830171497
+Sun Jul 29 16:55:31 2018 Unable to delete trap file #snmptt-trap-1532858128095084 from spool dir
+Sun Jul 29 16:55:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858128515807
+Sun Jul 29 16:55:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858129535407
+Sun Jul 29 16:55:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858130541575
+Sun Jul 29 16:59:32 2018 Unable to delete trap file #snmptt-trap-1532858368101695 from spool dir
+Sun Jul 29 16:59:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858369104474
+Sun Jul 29 16:59:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858370023720
+Sun Jul 29 16:59:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858370971679
+Sun Jul 29 17:03:31 2018 Unable to delete trap file #snmptt-trap-1532858609079506 from spool dir
+Sun Jul 29 17:03:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858610112987
+Sun Jul 29 17:07:32 2018 Unable to delete trap file #snmptt-trap-1532858848069260 from spool dir
+Sun Jul 29 17:07:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858849114232
+Sun Jul 29 17:07:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858849803010
+Sun Jul 29 17:07:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532858850794156
+Sun Jul 29 17:16:37 2018 Unable to delete trap file #snmptt-trap-1532859392702780 from spool dir
+Sun Jul 29 17:16:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532859392849682
+Sun Jul 29 17:16:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532859392994133
+Sun Jul 29 17:23:36 2018 Unable to delete trap file #snmptt-trap-1532859809958790 from spool dir
+Sun Jul 29 17:27:36 2018 Unable to delete trap file #snmptt-trap-1532860052050968 from spool dir
+Sun Jul 29 17:34:31 2018 Unable to delete trap file #snmptt-trap-1532860468125366 from spool dir
+Sun Jul 29 17:34:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532860469144395
+Sun Jul 29 17:34:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532860470164078
+Sun Jul 29 17:34:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532860471115125
+Sun Jul 29 17:40:31 2018 Unable to delete trap file #snmptt-trap-1532860829121087 from spool dir
+Sun Jul 29 17:40:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532860829799529
+Sun Jul 29 17:42:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532860948182699
+Sun Jul 29 17:42:32 2018 Unable to delete trap file #snmptt-trap-1532860949132676 from spool dir
+Sun Jul 29 17:42:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532860950129749
+Sun Jul 29 17:42:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532860951126172
+Sun Jul 29 17:53:32 2018 Unable to delete trap file #snmptt-trap-1532861611556676 from spool dir
+Sun Jul 29 17:53:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532861611711409
+Sun Jul 29 17:53:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532861611834051
+Sun Jul 29 17:53:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532861611997077
+Sun Jul 29 17:54:36 2018 Unable to delete trap file #snmptt-trap-1532861668147662 from spool dir
+Sun Jul 29 17:54:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532861669114828
+Sun Jul 29 17:54:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532861669488198
+Sun Jul 29 17:54:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532861669580832
+Sun Jul 29 17:58:36 2018 Unable to delete trap file #snmptt-trap-1532861911988122 from spool dir
+Sun Jul 29 18:05:32 2018 Unable to delete trap file #snmptt-trap-1532862328682483 from spool dir
+Sun Jul 29 18:05:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532862329655345
+Sun Jul 29 18:05:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532862330686621
+Sun Jul 29 18:19:32 2018 Unable to delete trap file #snmptt-trap-1532863170156628 from spool dir
+Sun Jul 29 18:19:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532863170511029
+Sun Jul 29 18:29:37 2018 Unable to delete trap file #snmptt-trap-1532863768152366 from spool dir
+Sun Jul 29 18:29:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532863768298720
+Sun Jul 29 18:29:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532863768504680
+Sun Jul 29 18:29:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532863769501751
+Sun Jul 29 18:33:37 2018 Unable to delete trap file #snmptt-trap-1532864011623327 from spool dir
+Sun Jul 29 18:33:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532864011766656
+Sun Jul 29 18:33:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532864011947141
+Sun Jul 29 18:33:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532864012092214
+Sun Jul 29 18:38:31 2018 Unable to delete trap file #snmptt-trap-1532864308780324 from spool dir
+Sun Jul 29 18:38:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532864309516757
+Sun Jul 29 18:38:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532864309868914
+Sun Jul 29 18:41:37 2018 Unable to delete trap file #snmptt-trap-1532864491926017 from spool dir
+Sun Jul 29 18:41:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532864492079754
+Sun Jul 29 18:46:32 2018 Unable to delete trap file #snmptt-trap-1532864789495086 from spool dir
+Sun Jul 29 18:51:32 2018 Unable to delete trap file #snmptt-trap-1532865091624804 from spool dir
+Sun Jul 29 19:00:32 2018 Unable to delete trap file #snmptt-trap-1532865628213298 from spool dir
+Sun Jul 29 19:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532865629031196
+Sun Jul 29 19:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532865629752925
+Sun Jul 29 19:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532865630748550
+Sun Jul 29 19:01:32 2018 Unable to delete trap file #snmptt-trap-1532865691678223 from spool dir
+Sun Jul 29 19:01:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532865691828434
+Sun Jul 29 19:01:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532865691976116
+Sun Jul 29 19:01:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532865692123721
+Sun Jul 29 19:06:37 2018 Unable to delete trap file #snmptt-trap-1532865988196734 from spool dir
+Sun Jul 29 19:06:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532865989207151
+Sun Jul 29 19:06:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532865989462371
+Sun Jul 29 19:06:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532865990498724
+Sun Jul 29 19:10:36 2018 Unable to delete trap file #snmptt-trap-1532866231844480 from spool dir
+Sun Jul 29 19:10:36 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532866231964878
+Sun Jul 29 19:15:31 2018 Unable to delete trap file #snmptt-trap-1532866528491732 from spool dir
+Sun Jul 29 19:15:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532866529507860
+Sun Jul 29 19:20:37 2018 Unable to delete trap file #snmptt-trap-1532866832142223 from spool dir
+Sun Jul 29 19:35:32 2018 Unable to delete trap file #snmptt-trap-1532867729234415 from spool dir
+Sun Jul 29 19:35:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532867730212419
+Sun Jul 29 19:39:37 2018 Unable to delete trap file #snmptt-trap-1532867968240520 from spool dir
+Sun Jul 29 19:39:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532867968514528
+Sun Jul 29 19:39:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532867968650073
+Sun Jul 29 19:39:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532867968816760
+Sun Jul 29 19:44:31 2018 Unable to delete trap file #snmptt-trap-1532868268240837 from spool dir
+Sun Jul 29 19:44:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532868269229071
+Sun Jul 29 19:44:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532868270162967
+Sun Jul 29 19:48:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532868509652068
+Sun Jul 29 19:48:32 2018 Unable to delete trap file #snmptt-trap-1532868510645379 from spool dir
+Sun Jul 29 19:51:37 2018 Unable to delete trap file #snmptt-trap-1532868692166844 from spool dir
+Sun Jul 29 19:58:32 2018 Unable to delete trap file #snmptt-trap-1532869110246688 from spool dir
+Sun Jul 29 20:04:32 2018 Unable to delete trap file #snmptt-trap-1532869469044071 from spool dir
+Sun Jul 29 20:11:32 2018 Unable to delete trap file #snmptt-trap-1532869892168962 from spool dir
+Sun Jul 29 20:14:37 2018 Unable to delete trap file #snmptt-trap-1532870068689194 from spool dir
+Sun Jul 29 20:14:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870068999207
+Sun Jul 29 20:19:32 2018 Unable to delete trap file #snmptt-trap-1532870368290938 from spool dir
+Sun Jul 29 20:19:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870368559401
+Sun Jul 29 20:19:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870368983716
+Sun Jul 29 20:19:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870369942735
+Sun Jul 29 20:23:32 2018 Unable to delete trap file #snmptt-trap-1532870608281462 from spool dir
+Sun Jul 29 20:23:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870608759846
+Sun Jul 29 20:23:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870608980633
+Sun Jul 29 20:23:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870610022856
+Sun Jul 29 20:27:32 2018 Unable to delete trap file #snmptt-trap-1532870848303942 from spool dir
+Sun Jul 29 20:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870849314493
+Sun Jul 29 20:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870849599844
+Sun Jul 29 20:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532870850177350
+Sun Jul 29 20:38:32 2018 Unable to delete trap file #snmptt-trap-1532871511728839 from spool dir
+Sun Jul 29 20:38:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532871511876049
+Sun Jul 29 20:38:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532871511958758
+Sun Jul 29 20:38:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532871512094510
+Sun Jul 29 20:45:37 2018 Unable to delete trap file #snmptt-trap-1532871928313403 from spool dir
+Sun Jul 29 20:45:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532871928764570
+Sun Jul 29 20:45:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532871929751131
+Sun Jul 29 20:45:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532871930108447
+Sun Jul 29 20:50:32 2018 Unable to delete trap file #snmptt-trap-1532872228330087 from spool dir
+Sun Jul 29 20:50:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532872229321518
+Sun Jul 29 20:50:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532872229471880
+Sun Jul 29 20:50:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532872230565392
+Sun Jul 29 20:53:36 2018 Unable to delete trap file #snmptt-trap-1532872412229086 from spool dir
+Sun Jul 29 20:54:32 2018 Unable to delete trap file #snmptt-trap-1532872468321015 from spool dir
+Sun Jul 29 20:54:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532872469318051
+Sun Jul 29 20:54:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532872469559427
+Sun Jul 29 20:54:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532872469842702
+Sun Jul 29 20:58:32 2018 Unable to delete trap file #snmptt-trap-1532872710098327 from spool dir
+Sun Jul 29 21:04:32 2018 Unable to delete trap file #snmptt-trap-1532873069332377 from spool dir
+Sun Jul 29 21:04:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532873070316051
+Sun Jul 29 21:04:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532873070557529
+Sun Jul 29 21:13:33 2018 Unable to delete trap file #snmptt-trap-1532873611773345 from spool dir
+Sun Jul 29 21:13:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532873612086706
+Sun Jul 29 21:13:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532873612259569
+Sun Jul 29 21:18:37 2018 Unable to delete trap file #snmptt-trap-1532873908350942 from spool dir
+Sun Jul 29 21:18:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532873909334085
+Sun Jul 29 21:18:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532873910339349
+Sun Jul 29 21:18:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532873911354601
+Sun Jul 29 21:22:36 2018 Unable to delete trap file #snmptt-trap-1532874152174874 from spool dir
+Sun Jul 29 21:29:32 2018 Unable to delete trap file #snmptt-trap-1532874569371022 from spool dir
+Sun Jul 29 21:29:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532874569593127
+Sun Jul 29 21:29:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532874570268708
+Sun Jul 29 21:35:32 2018 Unable to delete trap file #snmptt-trap-1532874928955589 from spool dir
+Sun Jul 29 21:35:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532874929193670
+Sun Jul 29 21:38:32 2018 Unable to delete trap file #snmptt-trap-1532875111759194 from spool dir
+Sun Jul 29 21:38:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532875111889856
+Sun Jul 29 21:38:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532875112034736
+Sun Jul 29 21:38:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532875112186169
+Sun Jul 29 21:49:37 2018 Unable to delete trap file #snmptt-trap-1532875768356736 from spool dir
+Sun Jul 29 21:49:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532875768570691
+Sun Jul 29 21:49:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532875768865469
+Sun Jul 29 21:49:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532875769864965
+Sun Jul 29 21:54:31 2018 Unable to delete trap file #snmptt-trap-1532876068375650 from spool dir
+Sun Jul 29 21:54:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876068524781
+Sun Jul 29 21:54:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876068692835
+Sun Jul 29 21:54:31 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876069562559
+Sun Jul 29 21:56:32 2018 Unable to delete trap file #snmptt-trap-1532876188364852 from spool dir
+Sun Jul 29 21:56:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876188573144
+Sun Jul 29 21:56:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876188720167
+Sun Jul 29 21:56:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876189587223
+Sun Jul 29 21:59:37 2018 Unable to delete trap file #snmptt-trap-1532876372019490 from spool dir
+Sun Jul 29 21:59:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876372129855
+Sun Jul 29 21:59:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876372273804
+Sun Jul 29 22:03:37 2018 Unable to delete trap file #snmptt-trap-1532876612259310 from spool dir
+Sun Jul 29 22:08:33 2018 Unable to delete trap file #snmptt-trap-1532876908349993 from spool dir
+Sun Jul 29 22:08:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876909350193
+Sun Jul 29 22:08:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876910247911
+Sun Jul 29 22:08:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532876911307650
+Sun Jul 29 22:10:37 2018 Unable to delete trap file #snmptt-trap-1532877028378540 from spool dir
+Sun Jul 29 22:10:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532877029370710
+Sun Jul 29 22:10:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532877029911526
+Sun Jul 29 22:10:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532877030965771
+Sun Jul 29 22:14:37 2018 Unable to delete trap file #snmptt-trap-1532877271962506 from spool dir
+Sun Jul 29 22:14:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532877272050336
+Sun Jul 29 22:14:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532877272197026
+Sun Jul 29 22:20:32 2018 Unable to delete trap file #snmptt-trap-1532877631807878 from spool dir
+Sun Jul 29 22:20:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532877631961588
+Sun Jul 29 22:29:32 2018 Unable to delete trap file #snmptt-trap-1532878170358114 from spool dir
+Sun Jul 29 22:29:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532878170585921
+Sun Jul 29 22:35:37 2018 Unable to delete trap file #snmptt-trap-1532878530970804 from spool dir
+Sun Jul 29 22:39:37 2018 Unable to delete trap file #snmptt-trap-1532878772227571 from spool dir
+Sun Jul 29 22:39:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532878772469600
+Sun Jul 29 22:46:32 2018 Unable to delete trap file #snmptt-trap-1532879189398553 from spool dir
+Sun Jul 29 22:46:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532879190414550
+Sun Jul 29 22:52:32 2018 Unable to delete trap file #snmptt-trap-1532879550395988 from spool dir
+Sun Jul 29 22:52:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532879550626511
+Sun Jul 29 22:59:32 2018 Unable to delete trap file #snmptt-trap-1532879971822268 from spool dir
+Sun Jul 29 22:59:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532879971982492
+Sun Jul 29 22:59:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532879972141611
+Sun Jul 29 22:59:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532879972233403
+Sun Jul 29 23:10:37 2018 Unable to delete trap file #snmptt-trap-1532880628337236 from spool dir
+Sun Jul 29 23:10:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532880629014734
+Sun Jul 29 23:10:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532880630015126
+Sun Jul 29 23:10:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532880631128799
+Sun Jul 29 23:14:37 2018 Unable to delete trap file #snmptt-trap-1532880872128699 from spool dir
+Sun Jul 29 23:14:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532880872278672
+Sun Jul 29 23:21:32 2018 Unable to delete trap file #snmptt-trap-1532881288410218 from spool dir
+Sun Jul 29 23:21:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532881288558081
+Sun Jul 29 23:21:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532881289452701
+Sun Jul 29 23:21:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532881289838253
+Sun Jul 29 23:27:32 2018 Unable to delete trap file #snmptt-trap-1532881648533574 from spool dir
+Sun Jul 29 23:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532881649209350
+Sun Jul 29 23:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532881650170172
+Sun Jul 29 23:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532881651162166
+Sun Jul 29 23:35:32 2018 Unable to delete trap file #snmptt-trap-1532882128425466 from spool dir
+Sun Jul 29 23:35:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532882128609886
+Sun Jul 29 23:35:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532882128778017
+Sun Jul 29 23:35:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532882129489206
+Sun Jul 29 23:51:37 2018 Unable to delete trap file #snmptt-trap-1532883088426190 from spool dir
+Sun Jul 29 23:51:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532883089424070
+Sun Jul 29 23:51:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532883090404093
+Sun Jul 29 23:51:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532883091423261
+Sun Jul 29 23:55:37 2018 Unable to delete trap file #snmptt-trap-1532883332124115 from spool dir
+Sun Jul 29 23:55:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532883332231515
+Mon Jul 30 00:00:32 2018 Unable to delete trap file #snmptt-trap-1532883628484215 from spool dir
+Mon Jul 30 00:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532883628679361
+Mon Jul 30 00:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532883628825632
+Mon Jul 30 00:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532883628971569
+Mon Jul 30 00:04:32 2018 Unable to delete trap file #snmptt-trap-1532883869741271 from spool dir
+Mon Jul 30 00:05:37 2018 Unable to delete trap file #snmptt-trap-1532883932169709 from spool dir
+Mon Jul 30 00:09:32 2018 Unable to delete trap file #snmptt-trap-1532884169454374 from spool dir
+Mon Jul 30 00:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532884170370245
+Mon Jul 30 00:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532884170514620
+Mon Jul 30 00:10:18 2018 Unable to delete trap file #snmptt-trap-1532884216560207 from spool dir
+Mon Jul 30 00:10:59 2018 Unable to delete trap file #snmptt-trap-1532884255856774 from spool dir
+Mon Jul 30 00:11:37 2018 Unable to delete trap file #snmptt-trap-1532884289448440 from spool dir
+Mon Jul 30 00:11:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532884289804887
+Mon Jul 30 00:11:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532884290869162
+Mon Jul 30 00:16:32 2018 Unable to delete trap file #snmptt-trap-1532884589632185 from spool dir
+Mon Jul 30 00:20:32 2018 Unable to delete trap file #snmptt-trap-1532884829731361 from spool dir
+Mon Jul 30 00:24:32 2018 Unable to delete trap file #snmptt-trap-1532885068471884 from spool dir
+Mon Jul 30 00:24:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532885069123267
+Mon Jul 30 00:24:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532885070139585
+Mon Jul 30 00:24:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532885070531760
+Mon Jul 30 00:32:32 2018 Unable to delete trap file #snmptt-trap-1532885550088257 from spool dir
+Mon Jul 30 00:34:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532885669511483
+Mon Jul 30 00:34:32 2018 Unable to delete trap file #snmptt-trap-1532885670494838 from spool dir
+Mon Jul 30 00:34:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532885671363689
+Mon Jul 30 00:38:32 2018 Unable to delete trap file #snmptt-trap-1532885910389749 from spool dir
+Mon Jul 30 00:38:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532885910767293
+Mon Jul 30 00:48:27 2018 Unable to delete trap file #snmptt-trap-1532886500311063 from spool dir
+Mon Jul 30 00:54:32 2018 Unable to delete trap file #snmptt-trap-1532886871902123 from spool dir
+Mon Jul 30 00:54:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532886872050622
+Mon Jul 30 00:59:08 2018 Unable to delete trap file #snmptt-trap-1532887143885798 from spool dir
+Mon Jul 30 00:59:37 2018 Unable to delete trap file #snmptt-trap-1532887169518097 from spool dir
+Mon Jul 30 00:59:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532887170502337
+Mon Jul 30 00:59:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532887171507559
+Mon Jul 30 01:00:03 2018 Unable to delete trap file #snmptt-trap-1532887200477974 from spool dir
+Mon Jul 30 01:02:37 2018 Unable to delete trap file #snmptt-trap-1532887348512805 from spool dir
+Mon Jul 30 01:02:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532887348790316
+Mon Jul 30 01:02:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532887349789277
+Mon Jul 30 01:02:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532887350794262
+Mon Jul 30 01:09:32 2018 Unable to delete trap file #snmptt-trap-1532887769516230 from spool dir
+Mon Jul 30 01:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532887769927421
+Mon Jul 30 01:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532887770933187
+Mon Jul 30 01:15:32 2018 Unable to delete trap file #snmptt-trap-1532888128519969 from spool dir
+Mon Jul 30 01:15:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532888129463932
+Mon Jul 30 01:15:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532888130512032
+Mon Jul 30 01:15:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532888131434614
+Mon Jul 30 01:24:32 2018 Unable to delete trap file #snmptt-trap-1532888671880143 from spool dir
+Mon Jul 30 01:24:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532888672030729
+Mon Jul 30 01:24:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532888672196085
+Mon Jul 30 01:27:37 2018 Unable to delete trap file #snmptt-trap-1532888848537271 from spool dir
+Mon Jul 30 01:27:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532888849533803
+Mon Jul 30 01:27:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532888850521554
+Mon Jul 30 01:27:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532888851532429
+Mon Jul 30 01:31:37 2018 Unable to delete trap file #snmptt-trap-1532889092248772 from spool dir
+Mon Jul 30 01:31:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532889092402636
+Mon Jul 30 01:37:32 2018 Unable to delete trap file #snmptt-trap-1532889451903466 from spool dir
+Mon Jul 30 01:48:37 2018 Unable to delete trap file #snmptt-trap-1532890108545363 from spool dir
+Mon Jul 30 01:48:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532890109545288
+Mon Jul 30 01:48:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532890110214159
+Mon Jul 30 01:48:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532890111232507
+Mon Jul 30 01:52:37 2018 Unable to delete trap file #snmptt-trap-1532890352220979 from spool dir
+Mon Jul 30 01:52:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532890352368563
+Mon Jul 30 01:59:32 2018 Unable to delete trap file #snmptt-trap-1532890768551787 from spool dir
+Mon Jul 30 01:59:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532890769549559
+Mon Jul 30 01:59:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532890770093501
+Mon Jul 30 01:59:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532890771107691
+Mon Jul 30 02:11:37 2018 Unable to delete trap file #snmptt-trap-1532891490694954 from spool dir
+Mon Jul 30 02:11:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532891491545685
+Mon Jul 30 02:15:37 2018 Unable to delete trap file #snmptt-trap-1532891732306152 from spool dir
+Mon Jul 30 02:21:37 2018 Unable to delete trap file #snmptt-trap-1532892092234021 from spool dir
+Mon Jul 30 02:27:32 2018 Unable to delete trap file #snmptt-trap-1532892451981211 from spool dir
+Mon Jul 30 02:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532892452137374
+Mon Jul 30 02:33:32 2018 Unable to delete trap file #snmptt-trap-1532892811954504 from spool dir
+Mon Jul 30 02:33:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532892812107511
+Mon Jul 30 02:44:37 2018 Unable to delete trap file #snmptt-trap-1532893469041396 from spool dir
+Mon Jul 30 02:44:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532893470046810
+Mon Jul 30 02:44:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532893471039634
+Mon Jul 30 02:50:32 2018 Unable to delete trap file #snmptt-trap-1532893829528957 from spool dir
+Mon Jul 30 02:50:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532893830587509
+Mon Jul 30 02:50:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532893831595870
+Mon Jul 30 03:04:36 2018 Unable to delete trap file #snmptt-trap-1532894668599901 from spool dir
+Mon Jul 30 03:04:37 2018 Unable to delete trap file #snmptt-trap-1532894668820550 from spool dir
+Mon Jul 30 03:04:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532894669100003
+Mon Jul 30 03:04:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532894670113544
+Mon Jul 30 03:09:32 2018 Unable to delete trap file #snmptt-trap-1532894968619469 from spool dir
+Mon Jul 30 03:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532894969616562
+Mon Jul 30 03:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532894969867165
+Mon Jul 30 03:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532894970903403
+Mon Jul 30 03:15:32 2018 Unable to delete trap file #snmptt-trap-1532895330548651 from spool dir
+Mon Jul 30 03:18:49 2018 Unable to delete trap file #snmptt-trap-1532895523976614 from spool dir
+Mon Jul 30 03:19:37 2018 Unable to delete trap file #snmptt-trap-1532895569709779 from spool dir
+Mon Jul 30 03:19:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532895570400588
+Mon Jul 30 03:19:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532895570797600
+Mon Jul 30 03:19:43 2018 Unable to delete trap file #snmptt-trap-1532895579997038 from spool dir
+Mon Jul 30 03:22:33 2018 Unable to delete trap file #snmptt-trap-1532895748628345 from spool dir
+Mon Jul 30 03:22:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532895749620882
+Mon Jul 30 03:22:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532895749806230
+Mon Jul 30 03:22:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532895750800291
+Mon Jul 30 03:30:37 2018 Unable to delete trap file #snmptt-trap-1532896228643201 from spool dir
+Mon Jul 30 03:30:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532896229610371
+Mon Jul 30 03:30:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532896229720580
+Mon Jul 30 03:30:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532896230752619
+Mon Jul 30 03:34:37 2018 Unable to delete trap file #snmptt-trap-1532896472441094 from spool dir
+Mon Jul 30 03:39:32 2018 Unable to delete trap file #snmptt-trap-1532896769629521 from spool dir
+Mon Jul 30 03:39:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532896770596145
+Mon Jul 30 03:41:32 2018 Unable to delete trap file #snmptt-trap-1532896888629088 from spool dir
+Mon Jul 30 03:41:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532896889728061
+Mon Jul 30 03:41:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532896889980145
+Mon Jul 30 03:41:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532896890934887
+Mon Jul 30 03:51:37 2018 Unable to delete trap file #snmptt-trap-1532897488652328 from spool dir
+Mon Jul 30 03:51:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532897489624125
+Mon Jul 30 03:51:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532897490630797
+Mon Jul 30 03:51:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532897491625197
+Mon Jul 30 03:56:32 2018 Unable to delete trap file #snmptt-trap-1532897788664403 from spool dir
+Mon Jul 30 03:56:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532897789581221
+Mon Jul 30 03:56:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532897790050873
+Mon Jul 30 03:56:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532897791132346
+Mon Jul 30 04:02:32 2018 Unable to delete trap file #snmptt-trap-1532898148649003 from spool dir
+Mon Jul 30 04:02:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532898149646311
+Mon Jul 30 04:02:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532898150636843
+Mon Jul 30 04:02:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532898151632309
+Mon Jul 30 04:06:32 2018 Unable to delete trap file #snmptt-trap-1532898390317119 from spool dir
+Mon Jul 30 04:12:32 2018 Unable to delete trap file #snmptt-trap-1532898748981024 from spool dir
+Mon Jul 30 04:12:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532898750049151
+Mon Jul 30 04:12:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532898751047841
+Mon Jul 30 04:13:33 2018 Unable to delete trap file #snmptt-trap-1532898811944968 from spool dir
+Mon Jul 30 04:13:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532898812051518
+Mon Jul 30 04:13:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532898812200185
+Mon Jul 30 04:13:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532898812348125
+Mon Jul 30 04:22:37 2018 Unable to delete trap file #snmptt-trap-1532899348582600 from spool dir
+Mon Jul 30 04:22:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532899349641998
+Mon Jul 30 04:22:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532899350650559
+Mon Jul 30 04:22:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532899351646440
+Mon Jul 30 04:26:37 2018 Unable to delete trap file #snmptt-trap-1532899592359157 from spool dir
+Mon Jul 30 04:26:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532899592508757
+Mon Jul 30 04:31:32 2018 Unable to delete trap file #snmptt-trap-1532899890017729 from spool dir
+Mon Jul 30 04:32:32 2018 Unable to delete trap file #snmptt-trap-1532899952082005 from spool dir
+Mon Jul 30 04:37:32 2018 Unable to delete trap file #snmptt-trap-1532900250651067 from spool dir
+Mon Jul 30 04:47:33 2018 Unable to delete trap file #snmptt-trap-1532900850680104 from spool dir
+Mon Jul 30 04:51:37 2018 Unable to delete trap file #snmptt-trap-1532901088711201 from spool dir
+Mon Jul 30 04:51:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532901089682755
+Mon Jul 30 04:51:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532901090681872
+Mon Jul 30 04:51:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532901091685768
+Mon Jul 30 04:55:37 2018 Unable to delete trap file #snmptt-trap-1532901332139931 from spool dir
+Mon Jul 30 04:55:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532901332288160
+Mon Jul 30 04:55:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532901332394615
+Mon Jul 30 05:06:32 2018 Unable to delete trap file #snmptt-trap-1532901989691670 from spool dir
+Mon Jul 30 05:06:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532901989953387
+Mon Jul 30 05:06:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532901990104971
+Mon Jul 30 05:16:37 2018 Unable to delete trap file #snmptt-trap-1532902591571633 from spool dir
+Mon Jul 30 05:21:32 2018 Unable to delete trap file #snmptt-trap-1532902888710080 from spool dir
+Mon Jul 30 05:21:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532902888868872
+Mon Jul 30 05:21:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532902889023530
+Mon Jul 30 05:21:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532902889846535
+Mon Jul 30 05:25:32 2018 Unable to delete trap file #snmptt-trap-1532903130340483 from spool dir
+Mon Jul 30 05:25:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532903131085189
+Mon Jul 30 05:32:33 2018 Unable to delete trap file #snmptt-trap-1532903552036691 from spool dir
+Mon Jul 30 05:32:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532903552206137
+Mon Jul 30 05:32:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532903552296152
+Mon Jul 30 05:32:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532903552448632
+Mon Jul 30 05:37:37 2018 Unable to delete trap file #snmptt-trap-1532903848704685 from spool dir
+Mon Jul 30 05:37:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532903849491033
+Mon Jul 30 05:37:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532903850488225
+Mon Jul 30 05:37:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532903850778153
+Mon Jul 30 05:41:37 2018 Unable to delete trap file #snmptt-trap-1532904092344494 from spool dir
+Mon Jul 30 05:41:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532904092495527
+Mon Jul 30 05:46:32 2018 Unable to delete trap file #snmptt-trap-1532904389443102 from spool dir
+Mon Jul 30 05:46:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532904389604974
+Mon Jul 30 05:46:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532904390194970
+Mon Jul 30 05:51:32 2018 Unable to delete trap file #snmptt-trap-1532904692058363 from spool dir
+Mon Jul 30 05:51:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532904692196354
+Mon Jul 30 06:00:32 2018 Unable to delete trap file #snmptt-trap-1532905229090598 from spool dir
+Mon Jul 30 06:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532905230137154
+Mon Jul 30 06:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532905231092635
+Mon Jul 30 06:08:37 2018 Unable to delete trap file #snmptt-trap-1532905708973364 from spool dir
+Mon Jul 30 06:08:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532905709983917
+Mon Jul 30 06:08:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532905710982954
+Mon Jul 30 06:13:32 2018 Unable to delete trap file #snmptt-trap-1532906009099435 from spool dir
+Mon Jul 30 06:13:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532906009754892
+Mon Jul 30 06:13:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532906010751168
+Mon Jul 30 06:13:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532906010927433
+Mon Jul 30 06:17:32 2018 Unable to delete trap file #snmptt-trap-1532906249754082 from spool dir
+Mon Jul 30 06:17:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532906250688985
+Mon Jul 30 06:17:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532906251166557
+Mon Jul 30 06:22:37 2018 Unable to delete trap file #snmptt-trap-1532906552455142 from spool dir
+Mon Jul 30 06:23:32 2018 Unable to delete trap file #snmptt-trap-1532906608730285 from spool dir
+Mon Jul 30 06:23:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532906608996456
+Mon Jul 30 06:23:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532906610000709
+Mon Jul 30 06:23:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532906610348854
+Mon Jul 30 06:31:32 2018 Unable to delete trap file #snmptt-trap-1532907089806149 from spool dir
+Mon Jul 30 06:39:37 2018 Unable to delete trap file #snmptt-trap-1532907568793045 from spool dir
+Mon Jul 30 06:39:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532907569140893
+Mon Jul 30 06:39:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532907570182671
+Mon Jul 30 06:39:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532907571188269
+Mon Jul 30 06:43:37 2018 Unable to delete trap file #snmptt-trap-1532907812422902 from spool dir
+Mon Jul 30 06:43:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532907812506466
+Mon Jul 30 06:48:32 2018 Unable to delete trap file #snmptt-trap-1532908108757347 from spool dir
+Mon Jul 30 06:48:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532908109776345
+Mon Jul 30 06:48:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532908110747478
+Mon Jul 30 06:48:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532908111751839
+Mon Jul 30 06:53:37 2018 Unable to delete trap file #snmptt-trap-1532908412493291 from spool dir
+Mon Jul 30 07:00:32 2018 Unable to delete trap file #snmptt-trap-1532908828762811 from spool dir
+Mon Jul 30 07:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532908829633436
+Mon Jul 30 07:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532908829802257
+Mon Jul 30 07:00:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532908830824837
+Mon Jul 30 07:12:37 2018 Unable to delete trap file #snmptt-trap-1532909548710526 from spool dir
+Mon Jul 30 07:12:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532909549768202
+Mon Jul 30 07:12:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532909550294202
+Mon Jul 30 07:12:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532909551278798
+Mon Jul 30 07:16:37 2018 Unable to delete trap file #snmptt-trap-1532909792511633 from spool dir
+Mon Jul 30 07:16:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532909792784827
+Mon Jul 30 07:17:32 2018 Unable to delete trap file #snmptt-trap-1532909850795690 from spool dir
+Mon Jul 30 07:20:37 2018 Unable to delete trap file #snmptt-trap-1532910032269509 from spool dir
+Mon Jul 30 07:20:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532910032420267
+Mon Jul 30 07:20:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532910032608640
+Mon Jul 30 07:27:32 2018 Unable to delete trap file #snmptt-trap-1532910450779208 from spool dir
+Mon Jul 30 07:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532910451094728
+Mon Jul 30 07:37:32 2018 Unable to delete trap file #snmptt-trap-1532911049849271 from spool dir
+Mon Jul 30 07:37:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532911050773973
+Mon Jul 30 07:37:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532911051769600
+Mon Jul 30 07:41:54 2018 Unable to delete trap file #snmptt-trap-1532911312251416 from spool dir
+Mon Jul 30 07:43:40 2018 Unable to delete trap file #snmptt-trap-1532911416562084 from spool dir
+Mon Jul 30 07:43:40 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532911416737848
+Mon Jul 30 07:46:39 2018 Unable to delete trap file #snmptt-trap-1532911590528141 from spool dir
+Mon Jul 30 07:46:39 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532911590896055
+Mon Jul 30 07:49:38 2018 Unable to delete trap file #snmptt-trap-1532911769857999 from spool dir
+Mon Jul 30 07:49:38 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532911770782353
+Mon Jul 30 07:49:38 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532911770945469
+Mon Jul 30 07:52:37 2018 Unable to delete trap file #snmptt-trap-1532911948803438 from spool dir
+Mon Jul 30 07:52:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532911949869929
+Mon Jul 30 07:52:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532911950837185
+Mon Jul 30 07:52:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532911951101794
+Mon Jul 30 07:56:37 2018 Unable to delete trap file #snmptt-trap-1532912192743076 from spool dir
+Mon Jul 30 08:02:37 2018 Unable to delete trap file #snmptt-trap-1532912552273100 from spool dir
+Mon Jul 30 08:02:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532912552417627
+Mon Jul 30 08:02:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532912552508980
+Mon Jul 30 08:09:32 2018 Unable to delete trap file #snmptt-trap-1532912969788047 from spool dir
+Mon Jul 30 08:09:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532912970809328
+Mon Jul 30 08:11:33 2018 Unable to delete trap file #snmptt-trap-1532913088796475 from spool dir
+Mon Jul 30 08:11:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913089752227
+Mon Jul 30 08:11:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913089888019
+Mon Jul 30 08:11:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913090914831
+Mon Jul 30 08:15:37 2018 Unable to delete trap file #snmptt-trap-1532913328800547 from spool dir
+Mon Jul 30 08:15:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913329798806
+Mon Jul 30 08:15:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913330808150
+Mon Jul 30 08:15:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913331249623
+Mon Jul 30 08:16:33 2018 Unable to delete trap file #snmptt-trap-1532913388816358 from spool dir
+Mon Jul 30 08:16:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913389799606
+Mon Jul 30 08:16:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913390795227
+Mon Jul 30 08:16:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913390991321
+Mon Jul 30 08:18:37 2018 Unable to delete trap file #snmptt-trap-1532913508731589 from spool dir
+Mon Jul 30 08:18:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913508850108
+Mon Jul 30 08:18:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913509901433
+Mon Jul 30 08:18:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913510831671
+Mon Jul 30 08:23:32 2018 Unable to delete trap file #snmptt-trap-1532913808807355 from spool dir
+Mon Jul 30 08:23:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913809799725
+Mon Jul 30 08:23:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913810796870
+Mon Jul 30 08:23:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532913810992719
+Mon Jul 30 08:27:32 2018 Unable to delete trap file #snmptt-trap-1532914049577589 from spool dir
+Mon Jul 30 08:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532914049868757
+Mon Jul 30 08:27:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532914050783365
+Mon Jul 30 08:29:32 2018 Unable to delete trap file #snmptt-trap-1532914168764660 from spool dir
+Mon Jul 30 08:29:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532914168923815
+Mon Jul 30 08:29:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532914169914613
+Mon Jul 30 08:29:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532914171058777
+Mon Jul 30 08:37:33 2018 Unable to delete trap file #snmptt-trap-1532914650044562 from spool dir
+Mon Jul 30 08:37:33 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532914651050617
+Mon Jul 30 08:45:37 2018 Unable to delete trap file #snmptt-trap-1532915128740881 from spool dir
+Mon Jul 30 08:45:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915129158502
+Mon Jul 30 08:45:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915130181949
+Mon Jul 30 08:45:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915130542420
+Mon Jul 30 08:50:32 2018 Unable to delete trap file #snmptt-trap-1532915428814548 from spool dir
+Mon Jul 30 08:50:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915429815102
+Mon Jul 30 08:50:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915430158714
+Mon Jul 30 08:50:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915431161233
+Mon Jul 30 08:54:32 2018 Unable to delete trap file #snmptt-trap-1532915670298139 from spool dir
+Mon Jul 30 08:57:34 2018 Unable to delete trap file #snmptt-trap-1532915852191716 from spool dir
+Mon Jul 30 08:57:34 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915852283780
+Mon Jul 30 08:57:34 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915852435971
+Mon Jul 30 08:58:38 2018 Unable to delete trap file #snmptt-trap-1532915909803139 from spool dir
+Mon Jul 30 08:58:38 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915909964567
+Mon Jul 30 08:58:38 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532915911037318
+Mon Jul 30 09:01:37 2018 Unable to delete trap file #snmptt-trap-1532916088830285 from spool dir
+Mon Jul 30 09:01:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532916089831221
+Mon Jul 30 09:01:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532916090790680
+Mon Jul 30 09:01:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532916091868540
+Mon Jul 30 09:05:37 2018 Unable to delete trap file #snmptt-trap-1532916332481828 from spool dir
+Mon Jul 30 09:05:37 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532916332634749
+Mon Jul 30 09:11:32 2018 Unable to delete trap file #snmptt-trap-1532916691156230 from spool dir
+Mon Jul 30 09:11:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532916691302238
+Mon Jul 30 09:11:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532916691469221
+Mon Jul 30 09:11:32 2018 Could not open trap file /var/spool/snmptt/#snmptt-trap-1532916691634413
+Mon Jul 30 11:29:34 2018 Unable to delete trap file #snmptt-trap-1532924970546175 from spool dir
+Mon Jul 30 11:49:10 2018 Unable to delete trap file #snmptt-trap-1532926135856137 from spool dir
