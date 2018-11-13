@@ -1,0 +1,322 @@
+2018-11-06 00:02:00, action:GET_TOKEN, code:00
+2018-11-06 00:02:00, action:SEARCH, code:00, time_process:0
+2018-11-06 00:05:25, action:GET_TOKEN, code:00
+2018-11-06 00:05:25, action:SEARCH, code:00, time_process:0
+2018-11-06 00:05:39, action:GET_TOKEN, code:00
+2018-11-06 00:05:39, action:SEARCH, code:00, time_process:0
+2018-11-06 00:26:14, action:GET_TOKEN, code:00
+2018-11-06 00:26:14, action:SEARCH, code:00, time_process:0
+2018-11-06 00:26:21, action:GET_TOKEN, code:00
+2018-11-06 00:26:21, action:SEARCH, code:00, time_process:0
+2018-11-06 00:27:19, action:GET_TOKEN, code:00
+2018-11-06 00:27:20, action:SEARCH, code:00, time_process:0
+2018-11-06 00:27:57, action:GET_TOKEN, code:00
+2018-11-06 00:27:57, action:SEARCH, code:00, time_process:0
+2018-11-06 00:28:03, action:GET_TOKEN, code:00
+2018-11-06 00:28:03, action:SEARCH, code:00, time_process:0
+2018-11-06 00:28:05, action:GET_TOKEN, code:00
+2018-11-06 00:28:06, action:SEARCH, code:00, time_process:0
+2018-11-06 01:35:25, action:GET_TOKEN, code:00
+2018-11-06 01:35:25, action:SEARCH, code:00, time_process:0
+2018-11-06 01:35:29, action:GET_TOKEN, code:00
+2018-11-06 01:35:29, action:SEARCH, code:00, time_process:0
+2018-11-06 01:43:21, action:GET_TOKEN, code:00
+2018-11-06 01:43:22, action:SEARCH, code:00, time_process:0
+2018-11-06 01:43:44, action:GET_TOKEN, code:00
+2018-11-06 01:43:44, action:SEARCH, code:00, time_process:0
+2018-11-06 02:03:27, action:GET_TOKEN, code:00
+2018-11-06 02:03:28, action:SEARCH, code:00, time_process:1
+2018-11-06 02:06:35, action:GET_TOKEN, code:00
+2018-11-06 02:06:56, action:GET_TOKEN, code:00
+2018-11-06 02:06:56, action:SEARCH, code:00, time_process:0
+2018-11-06 02:11:58, action:GET_TOKEN, code:00
+2018-11-06 02:11:58, action:SEARCH, code:00, time_process:0
+2018-11-06 02:12:06, action:GET_TOKEN, code:00
+2018-11-06 02:12:06, action:GET_SEAT, code:00, time_process:0, query_id: 1012290
+2018-11-06 02:24:15, action:GET_TOKEN, code:00
+2018-11-06 02:24:15, action:SEARCH, code:00, time_process:0
+2018-11-06 02:38:06, action:GET_TOKEN, code:00
+2018-11-06 02:38:08, action:SEARCH, code:00, time_process:2
+2018-11-06 02:38:13, action:GET_TOKEN, code:00
+2018-11-06 02:38:13, action:GET_SEAT, code:00, time_process:0, query_id: 1012417
+2018-11-06 02:55:05, action:GET_TOKEN, code:00
+2018-11-06 02:55:05, action:SEARCH, code:00, time_process:0
+2018-11-06 03:04:53, action:GET_TOKEN, code:00
+2018-11-06 03:04:54, action:SEARCH, code:00, time_process:0
+2018-11-06 03:30:00, action:GET_TOKEN, code:00
+2018-11-06 03:30:00, action:GET_TOKEN, code:00
+2018-11-06 03:30:00, action:GET_TOKEN, code:00
+2018-11-06 03:30:00, action:GET_TOKEN, code:00
+2018-11-06 03:30:00, action:GET_TOKEN, code:00
+2018-11-06 03:30:00, action:GET_TOKEN, code:00
+2018-11-06 03:30:01, action:GET_TOKEN, code:00
+2018-11-06 03:30:01, action:GET_TOKEN, code:00
+2018-11-06 03:30:01, action:GET_TOKEN, code:00
+2018-11-06 03:30:01, action:GET_TOKEN, code:00
+2018-11-06 03:30:01, action:GET_TOKEN, code:00
+2018-11-06 03:30:01, action:GET_TOKEN, code:00
+2018-11-06 03:30:01, action:GET_TOKEN, code:00
+2018-11-06 03:30:01, action:GET_TOKEN, code:00
+2018-11-06 03:30:01, action:GET_TOKEN, code:00
+2018-11-06 03:30:02, action:GET_TOKEN, code:00
+2018-11-06 03:30:02, action:GET_TOKEN, code:00
+2018-11-06 03:30:02, action:GET_TOKEN, code:00
+2018-11-06 03:30:02, action:GET_TOKEN, code:00
+2018-11-06 03:30:02, action:GET_TOKEN, code:00
+2018-11-06 03:30:02, action:GET_TOKEN, code:00
+2018-11-06 03:30:02, action:GET_TOKEN, code:00
+2018-11-06 03:30:02, action:GET_TOKEN, code:00
+2018-11-06 03:30:02, action:GET_TOKEN, code:00
+2018-11-06 03:30:03, action:GET_TOKEN, code:00
+2018-11-06 03:30:03, action:GET_TOKEN, code:00
+2018-11-06 03:30:03, action:GET_TOKEN, code:00
+2018-11-06 03:30:03, action:GET_TOKEN, code:00
+2018-11-06 03:30:03, action:GET_TOKEN, code:00
+2018-11-06 03:30:03, action:GET_TOKEN, code:00
+2018-11-06 03:30:03, action:GET_TOKEN, code:00
+2018-11-06 03:30:03, action:GET_TOKEN, code:00
+2018-11-06 03:30:04, action:GET_TOKEN, code:00
+2018-11-06 03:30:04, action:GET_TOKEN, code:00
+2018-11-06 03:30:04, action:GET_TOKEN, code:00
+2018-11-06 03:30:04, action:GET_TOKEN, code:00
+2018-11-06 03:30:04, action:GET_TOKEN, code:00
+2018-11-06 03:30:04, action:GET_TOKEN, code:00
+2018-11-06 03:30:04, action:GET_TOKEN, code:00
+2018-11-06 03:30:04, action:GET_TOKEN, code:00
+2018-11-06 03:30:05, action:GET_TOKEN, code:00
+2018-11-06 03:30:05, action:GET_TOKEN, code:00
+2018-11-06 03:30:05, action:GET_TOKEN, code:00
+2018-11-06 03:30:05, action:GET_TOKEN, code:00
+2018-11-06 03:30:05, action:GET_TOKEN, code:00
+2018-11-06 03:30:05, action:GET_TOKEN, code:00
+2018-11-06 03:30:05, action:GET_TOKEN, code:00
+2018-11-06 03:30:06, action:GET_TOKEN, code:00
+2018-11-06 03:30:06, action:GET_TOKEN, code:00
+2018-11-06 03:30:06, action:GET_TOKEN, code:00
+2018-11-06 03:30:06, action:GET_TOKEN, code:00
+2018-11-06 03:30:06, action:GET_TOKEN, code:00
+2018-11-06 03:30:06, action:GET_TOKEN, code:00
+2018-11-06 03:30:06, action:GET_TOKEN, code:00
+2018-11-06 03:30:06, action:GET_TOKEN, code:00
+2018-11-06 03:30:07, action:GET_TOKEN, code:00
+2018-11-06 03:30:07, action:GET_TOKEN, code:00
+2018-11-06 03:30:07, action:GET_TOKEN, code:00
+2018-11-06 03:30:07, action:GET_TOKEN, code:00
+2018-11-06 03:30:07, action:GET_TOKEN, code:00
+2018-11-06 03:30:07, action:GET_TOKEN, code:00
+2018-11-06 03:30:07, action:GET_TOKEN, code:00
+2018-11-06 03:30:08, action:GET_TOKEN, code:00
+2018-11-06 03:30:08, action:GET_TOKEN, code:00
+2018-11-06 03:30:08, action:GET_TOKEN, code:00
+2018-11-06 03:30:08, action:GET_TOKEN, code:00
+2018-11-06 03:30:08, action:GET_TOKEN, code:00
+2018-11-06 03:30:08, action:GET_TOKEN, code:00
+2018-11-06 03:30:08, action:GET_TOKEN, code:00
+2018-11-06 03:30:08, action:GET_TOKEN, code:00
+2018-11-06 03:30:09, action:GET_TOKEN, code:00
+2018-11-06 03:30:09, action:GET_TOKEN, code:00
+2018-11-06 03:30:09, action:GET_TOKEN, code:00
+2018-11-06 03:30:09, action:GET_TOKEN, code:00
+2018-11-06 03:30:09, action:GET_TOKEN, code:00
+2018-11-06 03:30:09, action:GET_TOKEN, code:00
+2018-11-06 03:30:09, action:GET_TOKEN, code:00
+2018-11-06 03:30:09, action:GET_TOKEN, code:00
+2018-11-06 03:30:09, action:GET_TOKEN, code:00
+2018-11-06 03:30:10, action:GET_TOKEN, code:00
+2018-11-06 03:30:10, action:GET_TOKEN, code:00
+2018-11-06 03:30:10, action:GET_TOKEN, code:00
+2018-11-06 03:30:10, action:GET_TOKEN, code:00
+2018-11-06 03:30:10, action:GET_TOKEN, code:00
+2018-11-06 03:30:10, action:GET_TOKEN, code:00
+2018-11-06 03:30:10, action:GET_TOKEN, code:00
+2018-11-06 03:30:10, action:GET_TOKEN, code:00
+2018-11-06 03:30:11, action:GET_TOKEN, code:00
+2018-11-06 03:30:11, action:GET_TOKEN, code:00
+2018-11-06 03:30:11, action:GET_TOKEN, code:00
+2018-11-06 03:30:11, action:GET_TOKEN, code:00
+2018-11-06 03:30:11, action:GET_TOKEN, code:00
+2018-11-06 03:30:11, action:GET_TOKEN, code:00
+2018-11-06 03:30:11, action:GET_TOKEN, code:00
+2018-11-06 03:30:11, action:GET_TOKEN, code:00
+2018-11-06 03:30:12, action:GET_TOKEN, code:00
+2018-11-06 03:30:12, action:GET_TOKEN, code:00
+2018-11-06 03:30:12, action:GET_TOKEN, code:00
+2018-11-06 03:30:12, action:GET_TOKEN, code:00
+2018-11-06 03:30:12, action:GET_TOKEN, code:00
+2018-11-06 03:30:12, action:GET_TOKEN, code:00
+2018-11-06 03:30:13, action:GET_TOKEN, code:00
+2018-11-06 03:30:13, action:GET_TOKEN, code:00
+2018-11-06 03:30:13, action:GET_TOKEN, code:00
+2018-11-06 03:30:13, action:GET_TOKEN, code:00
+2018-11-06 03:30:13, action:GET_TOKEN, code:00
+2018-11-06 03:30:13, action:GET_TOKEN, code:00
+2018-11-06 03:30:13, action:GET_TOKEN, code:00
+2018-11-06 03:30:13, action:GET_TOKEN, code:00
+2018-11-06 03:31:26, action:GET_TOKEN, code:00
+2018-11-06 03:31:29, action:SEARCH, code:00, time_process:3
+2018-11-06 04:27:25, action:GET_TOKEN, code:00
+2018-11-06 04:27:25, action:SEARCH, code:00, time_process:0
+2018-11-06 04:27:46, action:GET_TOKEN, code:00
+2018-11-06 04:27:46, action:SEARCH, code:00, time_process:0
+2018-11-06 04:28:23, action:GET_TOKEN, code:00
+2018-11-06 04:28:23, action:SEARCH, code:00, time_process:0
+2018-11-06 04:54:25, action:GET_TOKEN, code:00
+2018-11-06 04:54:25, action:SEARCH, code:00, time_process:0
+2018-11-06 04:54:28, action:GET_TOKEN, code:00
+2018-11-06 04:54:28, action:SEARCH, code:00, time_process:0
+2018-11-06 05:53:45, action:GET_TOKEN, code:00
+2018-11-06 05:53:46, action:SEARCH, code:00, time_process:0
+2018-11-06 05:53:53, action:GET_TOKEN, code:00
+2018-11-06 05:53:53, action:SEARCH, code:00, time_process:0
+2018-11-06 05:54:26, action:GET_TOKEN, code:00
+2018-11-06 05:54:26, action:SEARCH, code:00, time_process:0
+2018-11-06 05:54:40, action:GET_TOKEN, code:00
+2018-11-06 05:54:40, action:SEARCH, code:00, time_process:0
+2018-11-06 05:54:55, action:GET_TOKEN, code:00
+2018-11-06 05:54:55, action:SEARCH, code:00, time_process:0
+2018-11-06 06:29:16, action:GET_TOKEN, code:00
+2018-11-06 06:29:16, action:SEARCH, code:00, time_process:0
+2018-11-06 06:37:17, action:GET_TOKEN, code:00
+2018-11-06 06:37:17, action:SEARCH, code:00, time_process:0
+2018-11-06 06:37:39, action:GET_TOKEN, code:00
+2018-11-06 06:37:39, action:SEARCH, code:00, time_process:0
+2018-11-06 06:38:18, action:GET_TOKEN, code:00
+2018-11-06 06:38:18, action:SEARCH, code:00, time_process:0
+2018-11-06 06:38:23, action:GET_TOKEN, code:00
+2018-11-06 06:38:23, action:SEARCH, code:00, time_process:0
+2018-11-06 06:38:27, action:GET_TOKEN, code:00
+2018-11-06 06:38:27, action:SEARCH, code:00, time_process:0
+2018-11-06 06:38:30, action:GET_TOKEN, code:00
+2018-11-06 06:38:30, action:SEARCH, code:00, time_process:0
+2018-11-06 06:38:32, action:GET_TOKEN, code:00
+2018-11-06 06:38:32, action:SEARCH, code:00, time_process:0
+2018-11-06 06:38:42, action:GET_TOKEN, code:00
+2018-11-06 06:38:42, action:SEARCH, code:00, time_process:0
+2018-11-06 06:44:10, action:GET_TOKEN, code:00
+2018-11-06 06:44:11, action:SEARCH, code:00, time_process:1
+2018-11-06 06:54:43, action:GET_TOKEN, code:00
+2018-11-06 06:54:43, action:SEARCH, code:00, time_process:0
+2018-11-06 06:54:51, action:GET_TOKEN, code:00
+2018-11-06 06:54:51, action:SEARCH, code:00, time_process:0
+2018-11-06 06:55:05, action:GET_TOKEN, code:00
+2018-11-06 06:55:05, action:SEARCH, code:00, time_process:0
+2018-11-06 06:55:07, action:GET_TOKEN, code:00
+2018-11-06 06:55:07, action:SEARCH, code:00, time_process:0
+2018-11-06 06:57:42, action:GET_TOKEN, code:00
+2018-11-06 06:57:43, action:SEARCH, code:00, time_process:1
+2018-11-06 07:01:03, action:GET_TOKEN, code:00
+2018-11-06 07:01:03, action:SEARCH, code:00, time_process:0
+2018-11-06 07:01:13, action:GET_TOKEN, code:00
+2018-11-06 07:01:13, action:SEARCH, code:00, time_process:0
+2018-11-06 07:12:05, action:GET_TOKEN, code:00
+2018-11-06 07:12:05, action:SEARCH, code:00, time_process:0
+2018-11-06 07:14:21, action:GET_TOKEN, code:00
+2018-11-06 07:14:21, action:SEARCH, code:00, time_process:0
+2018-11-06 07:19:17, action:GET_TOKEN, code:00
+2018-11-06 07:19:17, action:SEARCH, code:00, time_process:0
+2018-11-06 07:19:44, action:GET_TOKEN, code:00
+2018-11-06 07:19:44, action:SEARCH, code:00, time_process:0
+2018-11-06 07:27:07, action:GET_TOKEN, code:00
+2018-11-06 07:27:07, action:SEARCH, code:00, time_process:0
+2018-11-06 07:27:25, action:GET_TOKEN, code:00
+2018-11-06 07:27:25, action:SEARCH, code:00, time_process:0
+2018-11-06 07:27:29, action:GET_TOKEN, code:00
+2018-11-06 07:27:30, action:SEARCH, code:00, time_process:0
+2018-11-06 07:27:36, action:GET_TOKEN, code:00
+2018-11-06 07:27:36, action:GET_SEAT, code:00, time_process:0, query_id: 1013250
+2018-11-06 07:32:12, action:GET_TOKEN, code:00
+2018-11-06 07:32:13, action:SEARCH, code:00, time_process:0
+2018-11-06 07:36:08, action:GET_TOKEN, code:00
+2018-11-06 07:36:08, action:SEARCH, code:00, time_process:0
+2018-11-06 07:36:16, action:GET_TOKEN, code:00
+2018-11-06 07:36:16, action:SEARCH, code:00, time_process:0
+2018-11-06 07:36:28, action:GET_TOKEN, code:00
+2018-11-06 07:36:28, action:SEARCH, code:00, time_process:0
+2018-11-06 07:38:21, action:GET_TOKEN, code:00
+2018-11-06 07:38:22, action:SEARCH, code:00, time_process:0
+2018-11-06 07:39:53, action:GET_TOKEN, code:00
+2018-11-06 07:39:53, action:SEARCH, code:00, time_process:0
+2018-11-06 07:40:04, action:GET_TOKEN, code:00
+2018-11-06 07:40:04, action:SEARCH, code:00, time_process:0
+2018-11-06 07:40:11, action:GET_TOKEN, code:00
+2018-11-06 07:40:11, action:SEARCH, code:00, time_process:0
+2018-11-06 07:43:41, action:GET_TOKEN, code:00
+2018-11-06 07:43:42, action:SEARCH, code:00, time_process:0
+2018-11-06 07:44:11, action:GET_TOKEN, code:00
+2018-11-06 07:44:11, action:SEARCH, code:00, time_process:0
+2018-11-06 07:48:36, action:GET_TOKEN, code:00
+2018-11-06 07:48:36, action:SEARCH, code:00, time_process:0
+2018-11-06 07:49:08, action:GET_TOKEN, code:00
+2018-11-06 07:49:08, action:GET_SEAT, code:00, time_process:0, query_id: 1013316
+2018-11-06 07:50:19, action:GET_TOKEN, code:00
+2018-11-06 07:50:21, action:SEARCH, code:00, time_process:1
+2018-11-06 07:50:44, action:GET_TOKEN, code:00
+2018-11-06 07:50:46, action:SEARCH, code:00, time_process:1
+2018-11-06 07:57:09, action:GET_TOKEN, code:00
+2018-11-06 07:57:09, action:SEARCH, code:00, time_process:0
+2018-11-06 08:17:24, action:GET_TOKEN, code:00
+2018-11-06 08:17:24, action:SEARCH, code:00, time_process:0
+2018-11-06 08:17:28, action:GET_TOKEN, code:00
+2018-11-06 08:17:28, action:SEARCH, code:00, time_process:0
+2018-11-06 08:17:31, action:GET_TOKEN, code:00
+2018-11-06 08:17:31, action:SEARCH, code:00, time_process:0
+2018-11-06 08:17:45, action:GET_TOKEN, code:00
+2018-11-06 08:17:45, action:SEARCH, code:00, time_process:0
+2018-11-06 08:31:06, action:GET_TOKEN, code:00
+2018-11-06 08:31:07, action:SEARCH, code:00, time_process:6
+2018-11-06 08:31:20, action:GET_TOKEN, code:00
+2018-11-06 08:31:20, action:SEARCH, code:00, time_process:0
+2018-11-06 08:33:53, action:GET_TOKEN, code:00
+2018-11-06 08:33:53, action:SEARCH, code:00, time_process:0
+2018-11-06 08:34:12, action:GET_TOKEN, code:00
+2018-11-06 08:34:12, action:SEARCH, code:00, time_process:0
+2018-11-06 08:34:26, action:GET_TOKEN, code:00
+2018-11-06 08:34:26, action:SEARCH, code:00, time_process:0
+2018-11-06 08:34:46, action:GET_TOKEN, code:00
+2018-11-06 08:34:46, action:SEARCH, code:00, time_process:0
+2018-11-06 08:35:08, action:GET_TOKEN, code:00
+2018-11-06 08:35:09, action:SEARCH, code:00, time_process:0
+2018-11-06 08:35:26, action:GET_TOKEN, code:00
+2018-11-06 08:35:26, action:SEARCH, code:00, time_process:0
+2018-11-06 08:35:49, action:GET_TOKEN, code:00
+2018-11-06 08:35:53, action:GET_SEAT, code:00, time_process:4, query_id: 1013697
+2018-11-06 08:36:28, action:GET_TOKEN, code:00
+2018-11-06 08:36:28, action:SEARCH, code:00, time_process:0
+2018-11-06 08:36:57, action:GET_TOKEN, code:00
+2018-11-06 08:36:58, action:SEARCH, code:00, time_process:0
+2018-11-06 08:37:06, action:GET_TOKEN, code:00
+2018-11-06 08:37:07, action:SEARCH, code:00, time_process:0
+2018-11-06 08:37:11, action:GET_TOKEN, code:00
+2018-11-06 08:37:11, action:GET_SEAT, code:00, time_process:0, query_id: 1013705
+2018-11-06 08:37:25, action:GET_TOKEN, code:00
+2018-11-06 08:37:26, action:SEARCH, code:00, time_process:0
+2018-11-06 08:44:36, action:GET_TOKEN, code:00
+2018-11-06 08:44:36, action:SEARCH, code:00, time_process:0
+2018-11-06 08:44:52, action:GET_TOKEN, code:00
+2018-11-06 08:44:52, action:SEARCH, code:00, time_process:0
+2018-11-06 08:45:12, action:GET_TOKEN, code:00
+2018-11-06 08:45:12, action:SEARCH, code:00, time_process:0
+2018-11-06 08:45:25, action:GET_TOKEN, code:00
+2018-11-06 08:45:25, action:SEARCH, code:00, time_process:0
+2018-11-06 08:49:03, action:GET_TOKEN, code:00
+2018-11-06 08:49:03, action:SEARCH, code:00, time_process:0
+2018-11-06 08:49:12, action:GET_TOKEN, code:00
+2018-11-06 08:49:12, action:SEARCH, code:00, time_process:0
+2018-11-06 08:50:18, action:GET_TOKEN, code:00
+2018-11-06 08:50:18, action:SEARCH, code:00, time_process:0
+2018-11-06 08:54:50, action:GET_TOKEN, code:00
+2018-11-06 08:54:51, action:SEARCH, code:00, time_process:0
+2018-11-06 08:55:22, action:GET_TOKEN, code:00
+2018-11-06 08:55:24, action:SEARCH, code:00, time_process:2
+2018-11-06 08:55:37, action:GET_TOKEN, code:00
+2018-11-06 08:55:37, action:SEARCH, code:00, time_process:0
+2018-11-06 08:55:40, action:GET_TOKEN, code:00
+2018-11-06 08:55:40, action:GET_SEAT, code:00, time_process:0, query_id: 1013728
+2018-11-06 08:55:47, action:GET_TOKEN, code:00
+2018-11-06 08:55:48, action:SEARCH, code:00, time_process:0
+2018-11-06 08:55:55, action:GET_TOKEN, code:00
+2018-11-06 08:55:55, action:SEARCH, code:00, time_process:0
+2018-11-06 09:01:49, action:GET_TOKEN, code:00
+2018-11-06 09:01:50, action:SEARCH, code:00, time_process:0
+2018-11-06 09:02:01, action:GET_TOKEN, code:00
+2018-11-06 09:02:01, action:GET_SEAT, code:00, time_process:0, query_id: 1013909
